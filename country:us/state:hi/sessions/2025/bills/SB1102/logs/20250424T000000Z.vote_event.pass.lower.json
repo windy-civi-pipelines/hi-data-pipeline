@@ -1,0 +1,56 @@
+{
+  "identifier": "",
+  "motion_text": "The Conference Committee recommends that the measure be Passed, with Amendments.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-24",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB1102\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB1102",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Kila",
+      "voter_id": "~{\"name\": \"Kila\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tarnas",
+      "voter_id": "~{\"name\": \"Tarnas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Muraoka",
+      "voter_id": "~{\"name\": \"Muraoka\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1102&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "15#SB1102#2025-04-24#The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 3 Ayes: Representative(s) Kila, Tarnas, Muraoka; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none."
+}

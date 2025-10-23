@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2025",
+  "identifier": "GM620",
+  "title": "Submitting for consideration and confirmation to the Hawai'i Paroling Authority, Gubernatorial Nominee, LINDA RICH, for a term to expire 06-30-2028.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "proclamation"
+  ],
+  "subject": [
+    "Hawai'i Paroling Authority"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Confirmed. Ayes, 22. Aye(s) with reservations: none.  Noes, 0 (none). Excused, 3 (Senator(s) Awa, Chang, Fevella).",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "One Day Notice 04-24-25.",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Reported from PSM (Stand. Com. Rep. No. 1973) with recommendation to Advise and Consent.",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "The recommendation of the committee(s) on PSM is to ADVISE AND CONSENT to the nomination(s).  The votes in PSM were as follows: 5 Aye(s): Senator(s) Elefante, Wakai, Fukunaga, Rhoads, DeCorte; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "The committee(s) on PSM has scheduled a public hearing on 02-19-25 3:00PM; Conference Room 225 & Videoconference.",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Referred to PSM.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Safety and Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Received.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "governor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"governor\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "GM620",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/GM620_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=620&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "PSM"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:57Z"
+  }
+}

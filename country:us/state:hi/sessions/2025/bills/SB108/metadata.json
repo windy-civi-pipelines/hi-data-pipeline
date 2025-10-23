@@ -1,0 +1,196 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB108",
+  "title": "RELATING TO VESSELS.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "DOT",
+    "Harbors",
+    "Regulation of Noise",
+    "Report",
+    "Study",
+    "Vessels"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Requires the Department of Transportation to work with relevant stakeholders to conduct a study of noise regulations and best practices as they apply to other ports in similar locations.  Requires a report to the Legislature.  Effective 7/1/2050.  (SD1)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to CPN/WAM.",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Commerce and Consumer Protection",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:59Z"
+      }
+    },
+    {
+      "description": "Reported from TCA (Stand. Com. Rep. No. 252) with recommendation of passage on Second Reading, as amended (SD 1) and referral to CPN/WAM.",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:59Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  TCA recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in TCA were as follows: 4 Aye(s): Senator(s) Lee, C., Elefante, Kanuha, DeCorte; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Inouye.",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:59Z"
+      }
+    },
+    {
+      "description": "The committee(s) on TCA has scheduled a public hearing on 02-06-25 3:00PM; Conference Room 224 & Videoconference.",
+      "date": "2025-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:59Z"
+      }
+    },
+    {
+      "description": "Referred to TCA, CPN/WAM.",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation and Culture and the Arts",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Commerce and Consumer Protection",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:59Z"
+      }
+    },
+    {
+      "description": "Introduced and passed First Reading.",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:59Z"
+      }
+    },
+    {
+      "description": "Pending Introduction.",
+      "date": "2025-01-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "RHOADS",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"RHOADS\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB108_SD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB108_SD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB108_SD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB108",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB108_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB108_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=108&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "TCA, CPN/WAM"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:59Z"
+  }
+}

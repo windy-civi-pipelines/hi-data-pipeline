@@ -1,0 +1,74 @@
+{
+  "identifier": "",
+  "motion_text": "The committee(s) on LBT recommend(s) that the measure be PASSED, UNAMENDED.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-01-31",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB336\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB336",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Aquino",
+      "voter_id": "~{\"name\": \"Aquino\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lee",
+      "voter_id": "~{\"name\": \"Lee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "C",
+      "voter_id": "~{\"name\": \"C\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ihara",
+      "voter_id": "~{\"name\": \"Ihara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moriwaki",
+      "voter_id": "~{\"name\": \"Moriwaki\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Fevella",
+      "voter_id": "~{\"name\": \"Fevella\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=336&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "42#SB336#2025-01-31#The committee(s) on LBT recommend(s) that the measure be PASSED, UNAMENDED.  The votes in LBT were as follows: 4 Aye(s): Senator(s) Aquino, Lee, C., Ihara, Moriwaki; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Fevella."
+}

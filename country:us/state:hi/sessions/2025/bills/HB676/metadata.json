@@ -1,0 +1,218 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB676",
+  "title": "RELATING TO YOUTH AND ADULT CORRECTIONAL FACILITIES.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations ($)",
+    "Communication Services",
+    "Correctional Facilities",
+    "Department of Corrections and Rehabilitation",
+    "Hawaii Youth Correctional Facilities",
+    "PUC",
+    "Report"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Requires the State's youth and adult correctional facilities to provide free and accessible voice communication services for incarcerated persons in state correctional facilities.  Prohibits any state agency from deriving revenue or financial benefit from the provision of communication services to persons confined in state correctional facilities.  Requires the Public Utilities Commission to establish service quality standards and rules for the free voice communication services.  Requires a report to the Legislature.  Appropriates funds."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to PBS/HSH, CPC, FIN, referral sheet 2",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Safety",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Human Services & Homelessness",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Consumer Protection & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Introduced and Pass First Reading.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Pending introduction.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "BELATTI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"BELATTI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "AMATO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"AMATO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "GRANDINETTI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"GRANDINETTI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "MARTEN",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MARTEN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "PERRUSO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"PERRUSO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "POEPOE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"POEPOE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "SOUZA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"SOUZA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "TAKAYAMA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"TAKAYAMA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "TARNAS",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"TARNAS\"}",
+      "organization_id": null
+    },
+    {
+      "name": "TODD",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"TODD\"}",
+      "organization_id": null
+    },
+    {
+      "name": "WARD",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"WARD\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SB 782",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "HB676",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB676_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB676_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=676&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "PBS/HSH, CPC, FIN"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:55Z"
+  }
+}

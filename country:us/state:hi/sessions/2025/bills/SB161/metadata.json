@@ -1,0 +1,268 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB161",
+  "title": "RELATING TO COUNTY PERMITTING AND INSPECTION.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Cooperative Working Groups",
+    "Counties",
+    "County Building Permit Requirements",
+    "Exemption",
+    "Programmatic or Project-Specific Agreements",
+    "Public Disclosure",
+    "Report",
+    "State Agencies",
+    "State Projects"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Allows state projects to be exempt from county building permit requirements under certain conditions.  Requires all exempted state projects to be included in a report that is regularly made available to the public.  Allows state agencies that undertake projects to be dedicated to a county to prepare programmatic or project-specific agreements that establish requirements and standards for review and acceptance if the agency wants the project to be exempted.  Allows state agencies that want to be exempted from county permitting processes to establish a cooperative working group.  Requires cooperative working groups to submit an interim report to the Legislature before the Regular Session of 2026.  Effective 5/13/2040.  (SD1)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to WAM.",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "Reported from EIG/GVO (Stand. Com. Rep. No. 220) with recommendation of passage on Second Reading, as amended (SD 1) and referral to WAM.",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  GVO recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in GVO were as follows: 3 Aye(s): Senator(s) McKelvey, Moriwaki, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) Gabbard, San Buenaventura.",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  EIG recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in EIG were as follows: 5 Aye(s): Senator(s) Wakai, Chang, DeCoite, Richards, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "The committee(s) on GVO deferred the measure until 02-04-25 3:00PM; CR 225.",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "The committee(s) on EIG deferred the measure until 02-04-25 3:00PM; CR 016.",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "The committee(s) on EIG/GVO has scheduled a public hearing on 01-30-25 3:00PM; Conference Room 225 & Videoconference.",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "Referred to EIG/GVO, WAM.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Energy and Intergovernmental Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Government Operations",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "Introduced and passed First Reading.",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "Pending Introduction.",
+      "date": "2025-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "CHANG",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"CHANG\"}",
+      "organization_id": null
+    },
+    {
+      "name": "HASHIMOTO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"HASHIMOTO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "RICHARDS",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"RICHARDS\"}",
+      "organization_id": null
+    },
+    {
+      "name": "SAN BUENAVENTURA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"SAN BUENAVENTURA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kanuha",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kanuha\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HB 761",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "SB161_SD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB161_SD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB161_SD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB161",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB161_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB161_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=161&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "EIG/GVO, WAM"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:13:01Z"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2025",
+  "identifier": "GM771",
+  "title": "Submitting for consideration and confirmation to the Board of Directors of the Research Corporation of the University of Hawai'i, Gubernatorial Nominee, KEN KAWAHARA, for a term to expire 06-30-2025.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "proclamation"
+  ],
+  "subject": [
+    "Board of Directors of the Research Corporation of the University of Hawai'i"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Confirmed. Ayes, 24. Aye(s) with reservations: none.  Noes, 0 (none). Excused, 1 (Senator(s) Chang).",
+      "date": "2025-04-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "One Day Notice 04-25-25.",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Reported from HRE (Stand. Com. Rep. No. 1998) with recommendation to Advise and Consent.",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "The recommendation of the committee(s) on HRE is to ADVISE AND CONSENT to the nomination(s).  The votes in HRE were as follows: 5 Aye(s): Senator(s) Kim, Kidani, Fukunaga, Hashimoto, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+      "date": "2025-04-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "The committee(s) on HRE has scheduled a public hearing on 04-17-25 2:01PM; Conference Room 225 & Videoconference.",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Referred to HRE.",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Higher Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Received.",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "governor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"governor\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "GM771",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/GM771_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=771&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "HRE"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:57Z"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB276",
+  "title": "RELATING TO ORDERS FOR PROTECTION.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Criminal Offenses",
+    "Honolulu Prosecuting Attorney Package",
+    "Sentencing",
+    "Violation of Order for Protection"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Reinstates mandatory minimum jail sentences for successive violations of the same order for protection.  Removes the distinction between domestic and non-domestic violations of an order for protection.  Eliminates the court's ability to suspend mandatory minimum sentences."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to JDC.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Introduced and passed First Reading.",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Pending Introduction.",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "KOUCHI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"KOUCHI\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HB 383",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "SB276",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB276_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB276_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=276&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "JDC"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:13:00Z"
+  }
+}

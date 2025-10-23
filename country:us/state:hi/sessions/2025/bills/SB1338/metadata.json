@@ -1,0 +1,209 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB1338",
+  "title": "RELATING TO LONG DURATION CLEAN ENERGY STORAGE.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriation ($)",
+    "Energy Storage",
+    "Hawaii Renewable Hydrogen and Long Duration Clean Energy Storage Program",
+    "Hawaii State Energy Office",
+    "Hydrogen and Long Duration Clean Energy Storage Investment Capital Special Fund",
+    "Renewable Energy"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Renames the Hawaii Renewable Hydrogen Program to the Hawaii Renewable Hydrogen and Long Duration Clean Energy Storage Program (Program).  Amends the required activities of the Program, including conducting engineering and economic evaluations of potential locations for long duration clean energy storage and pumped storage hydroelectric projects.  Renames the Hydrogen Investment Special Fund to the Hydrogen and Long Duration Clean Energy Storage Investment Capital Special Fund.  Effective 5/13/2040.  (SD1)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to WAM.",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Reported from EIG/EDT (Stand. Com. Rep. No. 539) with recommendation of passage on Second Reading, as amended (SD 1) and referral to WAM.",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  EDT recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in EDT were as follows: 4 Aye(s): Senator(s) DeCoite, Wakai, Fukunaga, Awa; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Kim.",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  EIG recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in EIG were as follows: 4 Aye(s): Senator(s) Wakai, Chang, DeCoite, Richards; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Fevella.",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "The committee(s) on EIG/EDT has scheduled a public hearing on 02-11-25 3:10PM; Conference Room 016 & Videoconference.",
+      "date": "2025-02-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Referred to EIG/EDT, WAM.",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Energy and Intergovernmental Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Economic Development and Tourism",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Introduced and passed First Reading.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Pending Introduction.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "KOUCHI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"KOUCHI\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HB 1019",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "SB1338_SD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1338_SD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1338_SD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB1338",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1338_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1338_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1338&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "EIG/EDT, WAM"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:13:00Z"
+  }
+}

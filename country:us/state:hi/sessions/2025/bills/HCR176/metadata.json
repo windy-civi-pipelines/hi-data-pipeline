@@ -1,0 +1,136 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HCR176",
+  "title": "SUPPORTING THE REACTIVATION OF, AND URGING THE GOVERNOR TO APPOINT MEMBERS TO, THE HAWAII HEALTH AUTHORITY TO PLAN FOR A TRANSITION TO A MAXIMALLY COST-EFFECTIVE SINGLE-PAYER HEALTH CARE SYSTEM FOR THE STATE, TO BE IMPLEMENTED AS SOON AS POSSIBLE AFTER WAIVERS HAVE BEEN OBTAINED TO CAPTURE ALL MAJOR SOURCES OF FEDERAL FUNDING FLOWING TO THE STATE THROUGH MEDICARE, MEDICAID, AND TRICARE.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "Hawaii Health Authority",
+    "Single-Payer Health Care System"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to HLT/HSH, FIN, referral sheet 22",
+      "date": "2025-03-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Human Services & Homelessness",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Offered",
+      "date": "2025-03-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "GRANDINETTI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"GRANDINETTI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "AMATO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"AMATO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "PERRUSO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"PERRUSO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Belatti",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Belatti\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HR 172",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "HCR176",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HCR176_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HCR176_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HCR&billnumber=176&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "HLT/HSH, FIN"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:56Z"
+  }
+}

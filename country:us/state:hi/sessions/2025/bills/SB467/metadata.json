@@ -1,0 +1,126 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB467",
+  "title": "RELATING TO GENERAL EXCISE TAX.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "County Surcharge on State Tax",
+    "Extension",
+    "General Excise Tax Law",
+    "Hawaii State Association of Counties Package"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Authorizes each county that has established a surcharge on state tax before 7/1/2015 to extend the surcharge until 12/31/2045, at the same rates, if the county does so before 1/1/2028; Provides that no county surcharge on state tax authorized for a county that has not established a surcharge on state tax before 7/1/2015, shall be levied before 1/1/2019, or after 12/31/2045; and Repeals certain conditions on the use of surcharges received from the State for counties having a population equal to or less than 500,000 that adopt a county surcharge on state tax."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to EIG, WAM.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Energy and Intergovernmental Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Passed First Reading.",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Introduced.",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "KOUCHI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"KOUCHI\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HB 375",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "SB467",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB467_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB467_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=467&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "EIG, WAM"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:52Z"
+  }
+}

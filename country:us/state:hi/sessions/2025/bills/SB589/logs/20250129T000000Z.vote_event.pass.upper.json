@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "The committee(s) on  EIG recommend(s) that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-01-29",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB589\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB589",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Wakai",
+      "voter_id": "~{\"name\": \"Wakai\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chang",
+      "voter_id": "~{\"name\": \"Chang\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DeCoite",
+      "voter_id": "~{\"name\": \"DeCoite\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Fevella",
+      "voter_id": "~{\"name\": \"Fevella\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Richards",
+      "voter_id": "~{\"name\": \"Richards\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=589&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "49#SB589#2025-01-29#The committee(s) on  EIG recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in EIG were as follows: 3 Aye(s): Senator(s) Wakai, Chang, DeCoite; Aye(s) with reservations: none ; 1 No(es): Senator(s) Fevella; and 1 Excused: Senator(s) Richards."
+}

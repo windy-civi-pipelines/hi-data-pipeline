@@ -1,0 +1,145 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB610",
+  "title": "RELATING TO EDUCATION.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriation ($)",
+    "Compensation",
+    "County Boards of Water Supply",
+    "DOE",
+    "Electric Utilities",
+    "Round Up",
+    "Special Fund",
+    "Teachers"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Establishes the rounding up for teachers' salaries special fund, to be administered by the Department of Education.  Requires electric utilities and county boards of water supply to provide an option for customers to voluntarily round up their bill to the nearest dollar or provide a specific contribution amount.  Deposits the proceeds into the rounding up for teachers' salaries special fund.  Appropriates moneys."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to EDU, WAM/CPN.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Commerce and Consumer Protection",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "Passed First Reading.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "Introduced.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "FEVELLA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"FEVELLA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "CHANG",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"CHANG\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hashimoto",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hashimoto\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB610",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB610_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB610_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=610&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "EDU, WAM/CPN"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:13:01Z"
+  }
+}

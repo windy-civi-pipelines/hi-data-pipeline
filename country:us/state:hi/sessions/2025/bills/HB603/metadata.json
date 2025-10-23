@@ -1,0 +1,229 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB603",
+  "title": "RELATING TO NATIVE HAWAIIAN BUSINESS MARKETING.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriation ($)",
+    "Native Hawaiian Marketing Program",
+    "OHA"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Appropriates funds for the Office of Hawaiian Affairs to convene a working group regarding program design, implementation, and long-term viability of a Native Hawaiian Marketing Program to promote and support the success of businesses owned by Hawaiians through marketing and technical assistance.  Effective 7/1/3000."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Passed Second Reading as amended in HD 1 and referred to the committee(s) on CPC with none voting aye with reservations; none voting no (0) and Representative(s) Cochran, Kong, Ward excused (3).",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Consumer Protection & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "Reported from JHA (Stand. Com. Rep. No. 64) as amended in HD 1, recommending passage on Second Reading and referral to CPC.",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "The committee on JHA recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 9 Ayes: Representative(s) Tarnas, Poepoe, Belatti, Hashem, Kahaloa, Perruso, Takayama, Garcia, Shimizu; Ayes with reservations: none;  Noes: none; and 2 Excused: Representative(s) Cochran, Todd.",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "Bill scheduled to be heard by JHA on Friday, 01-31-25 2:00PM in House conference room 325 VIA VIDEOCONFERENCE.",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "Referred to JHA, CPC, FIN, referral sheet 2",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Consumer Protection & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "Introduced and Pass First Reading.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "Pending introduction.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "KAHALOA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"KAHALOA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "AMATO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"AMATO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "HOLT",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"HOLT\"}",
+      "organization_id": null
+    },
+    {
+      "name": "KAPELA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"KAPELA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "PERRUSO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"PERRUSO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "POEPOE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"POEPOE\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB603_HD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB603_HD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB603_HD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB603",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB603_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB603_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=603&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "JHA, CPC, FIN"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:13:01Z"
+  }
+}

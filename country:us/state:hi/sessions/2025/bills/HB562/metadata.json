@@ -1,0 +1,233 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB562",
+  "title": "RELATING TO CONSUMER PROTECTION.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "340B Drug Discount Program",
+    "Consumer Protection",
+    "Maximum Allowable Cost"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Prohibits covered entities in the State from entering into contracts with drug manufacturers that limit the covered entities' use of contract pharmacies.  Voids contract provisions for certain drugs if the provisions are based on the maximum allowable cost payment model.  Authorizes the attorney general to bring a civil action for violations."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to HLT, CPC, JHA, referral sheet 2",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Consumer Protection & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Introduced and Pass First Reading.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Pending introduction.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "CHUN",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"CHUN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "AMATO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"AMATO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "BELATTI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"BELATTI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "GRANDINETTI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"GRANDINETTI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "IWAMOTO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"IWAMOTO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "LOWEN",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"LOWEN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "MARTEN",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MARTEN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "MIYAKE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MIYAKE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "PERRUSO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"PERRUSO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "POEPOE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"POEPOE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "TAKAYAMA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"TAKAYAMA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "TAKENOUCHI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"TAKENOUCHI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "TAM",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"TAM\"}",
+      "organization_id": null
+    },
+    {
+      "name": "TODD",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"TODD\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SB 1280",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "HB562",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB562_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB562_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=562&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "HLT, CPC, JHA"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:55Z"
+  }
+}

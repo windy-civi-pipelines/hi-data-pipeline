@@ -1,0 +1,196 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SCR95",
+  "title": "REQUESTING THE COUNTY OF MAUI TO STUDY THE FEASIBILITY OF IMPLEMENTING A UNIVERSAL BASIC INCOME PROGRAM FOR RESIDENTS AND BUSINESS OWNERS IMPACTED BY THE 2023 MAUI WILDFIRES.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "2023 Maui wildfires",
+    "Feasibility Study",
+    "Maui County",
+    "Recovery Efforts",
+    "Report",
+    "Universal Basic Income"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to ECD, FIN, referral sheet 28",
+      "date": "2025-04-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Received from Senate (Sen. Com. No. 464).",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Report and Resolution Adopted.  Transmitted to House.",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "One Day Notice 04-02-25.",
+      "date": "2025-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Reported from EIG (Stand. Com. Rep. No. 1474) with recommendation of adoption.",
+      "date": "2025-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "The committee(s) on EIG recommend(s) that the measure be PASSED, UNAMENDED.  The votes in EIG were as follows: 3 Aye(s): Senator(s) Wakai, Chang, DeCoite; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) Richards, Fevella.",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "The committee(s) on EIG has scheduled a public hearing on 03-27-25 4:00PM; Conference Room 016 & Videoconference.",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Referred to EIG.",
+      "date": "2025-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Energy and Intergovernmental Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Offered.",
+      "date": "2025-03-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "MCKELVEY",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MCKELVEY\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SR 78",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "SCR95",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SCR95_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SCR95_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=95&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "ECD, FIN"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:58Z"
+  }
+}

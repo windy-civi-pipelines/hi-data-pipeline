@@ -1,0 +1,354 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB1133",
+  "title": "RELATING TO HOUSING.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Counties",
+    "Income Tax Credit",
+    "Long-Term Lease",
+    "Ordinance",
+    "Rental Unit Price Control",
+    "Residential Landlords"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Authorizes certain counties to establish a rental unit price ceiling ordinance that prohibits a landlord from increasing the rental price of a dwelling unit at a rate that exceeds the percentage calculated and published by the county based on changes in the applicable Consumer Price Index.  Beginning 8/1/2025, requires certain counties to annually calculate and publish the maximum rate at which a landlord may increase the rental price of a dwelling unit during the immediately succeeding twelve-month period.  Establishes a nonrefundable Long-Term Residential Lease Tax Credit for taxpayers who own and lease a dwelling unit located in a county that has adopted a rental unit price ceiling ordinance to a person as the person's principal residence in the State pursuant to a lease agreement of a term of one year or longer.  Allows the tax credit to be carried forward for up to three taxable years.  Applies to taxable years beginning after 12/31/2025.  Effective 7/1/2050.  (SD2)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to HSG/ECD, CPC, FIN, referral sheet 19",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Economic Development & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Consumer Protection & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Pass First Reading",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Received from Senate (Sen. Com. No. 263) in amended form (SD 2).",
+      "date": "2025-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Report adopted; Passed Third Reading, as amended (SD  2). Ayes, 25; Aye(s) with reservations: none .  Noes, 0 (none). Excused, 0 (none).  Transmitted to House.",
+      "date": "2025-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "48 Hrs. Notice 03-04-25.",
+      "date": "2025-02-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Reported from CPN/WAM (Stand. Com. Rep. No. 894) with recommendation of passage on Third Reading, as amended (SD 2).",
+      "date": "2025-02-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  WAM recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in WAM were as follows: 11 Aye(s): Senator(s) Dela Cruz, Moriwaki, DeCoite, Elefante, Hashimoto, Inouye, Kanuha, Kidani, Kim, Lee, C., Wakai; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) Aquino, Fevella.",
+      "date": "2025-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  CPN recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in CPN were as follows: 5 Aye(s): Senator(s) Keohokalole, Fukunaga, McKelvey, Richards, Awa; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+      "date": "2025-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "The committee(s) on CPN/WAM will hold a public decision making on 02-26-25 10:00AM; Conference Room 211 & Videoconference.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to CPN/WAM.",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Commerce and Consumer Protection",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Reported from HOU (Stand. Com. Rep. No. 562) with recommendation of passage on Second Reading, as amended (SD 1) and referral to CPN/WAM.",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  HOU recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in HOU were as follows: 3 Aye(s): Senator(s) Chang, Hashimoto, Kanuha; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) Aquino, Fevella.",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "The committee(s) on HOU has scheduled a public hearing on 02-06-25 1:05PM; Conference Room 225 & Videoconference.",
+      "date": "2025-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Re-Referred to HOU, CPN/WAM.",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Referred to HOU/EIG, CPN/WAM.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Energy and Intergovernmental Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Commerce and Consumer Protection",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Passed First Reading.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Introduced.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "MCKELVEY",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MCKELVEY\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB1133_SD2",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1133_SD2_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1133_SD2_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB1133_SD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1133_SD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1133_SD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB1133",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1133_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1133_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1133&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "HSG/ECD, CPC, FIN"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:57Z"
+  }
+}

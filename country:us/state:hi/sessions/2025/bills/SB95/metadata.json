@@ -1,0 +1,294 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB95",
+  "title": "RELATING TO VEHICLE SAFETY.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Certificate of Inspection",
+    "Fines",
+    "Vehicle Safety"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Creates additional fines for any individual found operating a vehicle or moped without a current certificate of inspection."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "The recommendation was not adopted.",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  JDC recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in JDC were as follows: 2 Aye(s): Senator(s) Rhoads, Chang; Aye(s) with reservations: none ; 2 No(es): Senator(s) San Buenaventura, Awa; and 1 Excused: Senator(s) Gabbard.",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "The committee(s) on JDC will hold a public decision making on 02-21-25 10:20AM; Conference Room 016 & Videoconference.",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Report adopted; Passed Second Reading and referred to JDC.",
+      "date": "2025-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Reported from TCA (Stand. Com. Rep. No. 131) with recommendation of passage on Second Reading and referral to JDC.",
+      "date": "2025-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "The committee(s) on TCA recommend(s) that the measure be PASSED, UNAMENDED.  The votes in TCA were as follows: 4 Aye(s): Senator(s) Lee, C., Inouye, Elefante, Kanuha; Aye(s) with reservations: none ; 1 No(es): Senator(s) DeCorte; and 0 Excused: none.",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "The committee(s) on TCA has scheduled a public hearing on 01-30-25 3:00PM; Conference Room 224 & Videoconference.",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Referred to TCA, JDC.",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation and Culture and the Arts",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Introduced and passed First Reading.",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Pending Introduction.",
+      "date": "2025-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "ELEFANTE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"ELEFANTE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "AQUINO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"AQUINO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "CHANG",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"CHANG\"}",
+      "organization_id": null
+    },
+    {
+      "name": "FEVELLA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"FEVELLA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "FUKUNAGA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"FUKUNAGA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "HASHIMOTO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"HASHIMOTO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "LEE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"LEE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"C.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "MORIWAKI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MORIWAKI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gabbard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gabbard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McKelvey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McKelvey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wakai",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wakai\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HB 227",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "SB95",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB95_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB95_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=95&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "TCA, JDC"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:56Z"
+  }
+}

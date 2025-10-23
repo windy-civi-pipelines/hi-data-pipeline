@@ -1,0 +1,115 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB1354",
+  "title": "RELATING TO THE STADIUM DEVELOPMENT SPECIAL FUND.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriation ($)",
+    "Department of Accounting and General Services",
+    "Stadium Authority",
+    "Stadium Development Special Fund"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Requires conditions placed on appropriations to the Stadium Development Special Fund to be met before expenditure.  Subjects expenditure by the Stadium Authority of an appropriation out of the Stadium Development Special Fund on the completion of specific project readiness conditions.  Appropriates moneys."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to ECD, FIN, referral sheet 4",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "Introduced and Pass First Reading.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "ICHIYAMA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"ICHIYAMA\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SB 1589",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "HB1354",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1354_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1354_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1354&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "ECD, FIN"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:13:01Z"
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB786",
+  "title": "RELATING TO GOVERNMENT RECORDS.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations ($)",
+    "Conversion to Disability-Accessible Format",
+    "Converting Agency",
+    "Counties",
+    "DCAB",
+    "Government Records",
+    "Governor",
+    "Judiciary",
+    "OIP",
+    "Rules",
+    "Uniform Information Practices Act"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Beginning 1/1/2027, requires all government records required to be open to public inspection under the Uniform Information Practices Act to be made available in a disability-accessible format upon request.  Requires the Governor, Chief Justice, and Mayor of each county to designate at least one agency within their respective government unit as a converting agency responsible for converting government records into a disability-accessible format.  Establishes the process by which government records shall be converted into disability-accessible format upon request.  Allows the converting agencies to consult with the Disability Communications Access Board.  Requires the Office of Information Practices, Judiciary, and each county to adopt rules, regulations, or ordinances, including a provision that extends the time within which an agency must respond to requests for government records by 5 business days for records in disability-accessible formats, with exceptions for records pertaining to board meetings.  Appropriates funds."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "The committee on GVO deferred the measure.",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "The committee(s) on GVO deferred the measure until 02-11-25 3:00PM; Conference Room 225.",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "The committee(s) on GVO deferred the measure until 02-06-25 3:00PM; Conference Room 225.",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "The committee(s) on GVO has scheduled a public hearing on 02-04-25 3:05PM; Conference Room 225 & Videoconference.",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Re-Referred to GVO, WAM/JDC.",
+      "date": "2025-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Referred to GVO/EIG, WAM/JDC.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Government Operations",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Energy and Intergovernmental Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Passed First Reading.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Introduced.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "RHOADS",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"RHOADS\"}",
+      "organization_id": null
+    },
+    {
+      "name": "CHANG",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"CHANG\"}",
+      "organization_id": null
+    },
+    {
+      "name": "FUKUNAGA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"FUKUNAGA\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB786",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB786_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB786_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=786&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "GVO, WAM/JDC"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:58Z"
+  }
+}

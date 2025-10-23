@@ -1,0 +1,230 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB1067",
+  "title": "RELATING TO DEPOSIT BEVERAGE CONTAINER RECYCLING.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Beverage Dealers",
+    "DOH",
+    "Deposit Beverage Container Deposit Special Fund",
+    "Redemption Centers",
+    "Refillable Beverage Containers",
+    "Regional Centers",
+    "Reverse Vending Machine Pilot Program"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Repeals certain exemptions for beverage dealers from the requirement to operate redemption centers and amends the types of containers they must accept for redemption.  Allows the establishment of regional centers for the redemption of refillable beverage containers but not as substitutes for dealers' means to receive deposit beverage containers.  Requires the Department of Health to establish a Reverse Vending Machine Pilot Program to use the Deposit Beverage Container Deposit Special Fund to provide grants to deploy reverse vending machines.  Establishes eligibility standards to receive grants from the Department of Health to deploy reverse vending machines.  Effective 12/31/2050.  (SD1)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to WAM/CPN.",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Commerce and Consumer Protection",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "Reported from HHS/AEN (Stand. Com. Rep. No. 425) with recommendation of passage on Second Reading, as amended (SD 1) and referral to WAM/CPN.",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  AEN recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in AEN were as follows: 3 Aye(s): Senator(s) Gabbard, DeCoite, Rhoads; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) Richards, Awa.",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  HHS recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in HHS were as follows: 3 Aye(s): Senator(s) San Buenaventura, Aquino, Hashimoto; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) Keohokalole, Fevella.",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "The committee(s) on HHS/AEN has scheduled a public hearing on 01-31-25 1:00PM; Conference Room 225 & Videoconference.",
+      "date": "2025-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "Referred to HHS/AEN, WAM/CPN.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health and Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Agriculture and Environment",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Commerce and Consumer Protection",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "Passed First Reading.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    },
+    {
+      "description": "Introduced.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "KEOHOKALOLE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"KEOHOKALOLE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "San Buenaventura",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"San Buenaventura\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HB 786",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "SB1067_SD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1067_SD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1067_SD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB1067",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1067_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1067_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1067&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "HHS/AEN, WAM/CPN"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:13:01Z"
+  }
+}

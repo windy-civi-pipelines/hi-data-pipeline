@@ -1,0 +1,33 @@
+{
+  "action": {
+    "description": "Referred to HHS/EIG, WAM/JDC.",
+    "date": "2025-01-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Health and Human Services",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Energy and Intergovernmental Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB1432"
+}

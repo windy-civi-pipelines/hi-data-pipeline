@@ -1,0 +1,154 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB1225",
+  "title": "RELATING TO MENTAL HEALTH.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Hospitalization",
+    "Mental Illness"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Amends the definition of \"dangerous to self\".  Defines the terms \"gravely disabled\" and \"psychiatric deterioration\".  Broadens the term of \"imminently dangerous to self and others\".  Increases the maximum period of emergency hospitalization."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to HLT/HSH, JHA, referral sheet 4",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Human Services & Homelessness",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Introduced and Pass First Reading.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Pending introduction.",
+      "date": "2025-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "MATSUMOTO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MATSUMOTO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "GARCIA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"GARCIA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "OLDS",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"OLDS\"}",
+      "organization_id": null
+    },
+    {
+      "name": "PIERICK",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"PIERICK\"}",
+      "organization_id": null
+    },
+    {
+      "name": "WARD",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"WARD\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB1225",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1225_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1225_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1225&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "HLT/HSH, JHA"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:54Z"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "The committee(s) on  HHS recommend(s) that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-01-31",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB675\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB675",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "San Buenaventura",
+      "voter_id": "~{\"name\": \"San Buenaventura\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Aquino",
+      "voter_id": "~{\"name\": \"Aquino\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hashimoto",
+      "voter_id": "~{\"name\": \"Hashimoto\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Keohokalole",
+      "voter_id": "~{\"name\": \"Keohokalole\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Fevella",
+      "voter_id": "~{\"name\": \"Fevella\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=675&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "5#SB675#2025-01-31#The committee(s) on  HHS recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in HHS were as follows: 3 Aye(s): Senator(s) San Buenaventura, Aquino, Hashimoto; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) Keohokalole, Fevella."
+}

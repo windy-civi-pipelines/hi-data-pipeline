@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Referred to LBT, JDC.",
+    "date": "2025-01-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Labor and Technology",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB1523"
+}

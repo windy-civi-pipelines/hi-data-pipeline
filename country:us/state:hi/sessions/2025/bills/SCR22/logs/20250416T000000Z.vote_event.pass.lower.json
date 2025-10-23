@@ -1,0 +1,92 @@
+{
+  "identifier": "",
+  "motion_text": "The committee on HSH recommend that the measure be PASSED, UNAMENDED.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-16",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SCR22\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SCR22",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Marten",
+      "voter_id": "~{\"name\": \"Marten\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Olds",
+      "voter_id": "~{\"name\": \"Olds\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Amato",
+      "voter_id": "~{\"name\": \"Amato\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chun",
+      "voter_id": "~{\"name\": \"Chun\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Keohokapu-Lee Loy",
+      "voter_id": "~{\"name\": \"Keohokapu-Lee Loy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Takenouchi",
+      "voter_id": "~{\"name\": \"Takenouchi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Alcos",
+      "voter_id": "~{\"name\": \"Alcos\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Garcia",
+      "voter_id": "~{\"name\": \"Garcia\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Takayama",
+      "voter_id": "~{\"name\": \"Takayama\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=22&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "5#SCR22#2025-04-16#The committee on HSH recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 8 Ayes: Representative(s) Marten, Olds, Amato, Chun, Keohokapu-Lee Loy, Takenouchi, Alcos, Garcia; Ayes with reservations: none;  Noes: none; and 1 Excused: Representative(s) Takayama."
+}

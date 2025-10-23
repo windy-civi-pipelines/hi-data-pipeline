@@ -1,0 +1,155 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB231",
+  "title": "RELATING TO AGRICULTURAL TOURISM.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accessory and Secondary Use",
+    "Agricultural Tourism",
+    "Productive Agricultural Use",
+    "Restrictions"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Requires the counties to adopt ordinances setting forth procedures and requirements for the review and permitting of agricultural tourism uses and activities as secondary uses, in addition to accessory uses, on a working farm or farming operation.  Requires the counties' ordinances to include requirements that:  the principal agricultural use on a working farm or farming operation preexists the issuance of any land use permit or building permit for any accessory and secondary use; agricultural tourism includes only those activities that are allowed under existing zoning and land use regulations; and agricultural tourism be allowed only on land on which productive agricultural use is occurring."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to WTL/AEN/EIG/EDT, WAM.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Water and Land",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Agriculture and Environment",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Energy and Intergovernmental Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Economic Development and Tourism",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Introduced and passed First Reading.",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Pending Introduction.",
+      "date": "2025-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "GABBARD",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"GABBARD\"}",
+      "organization_id": null
+    },
+    {
+      "name": "CHANG",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"CHANG\"}",
+      "organization_id": null
+    },
+    {
+      "name": "San Buenaventura",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"San Buenaventura\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HB 189",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "SB231",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB231_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB231_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=231&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "WTL/AEN/EIG/EDT, WAM"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:52Z"
+  }
+}

@@ -1,0 +1,725 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB1667",
+  "title": "RELATING TO TRANSPORTATION.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Annual Reports",
+    "Appropriations ($)",
+    "DOT",
+    "District Courts",
+    "Safe Routes to Schools Advisory Committee",
+    "State Highway Safety and Modernization Council"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Requires, when planning and managing state highways, in certain areas to be determined by certain national standards.  Establishes requirements for the State Highway Safety and Modernization Council.  Authorizes the State Highway Safety and Modernization Council to select potential areas for the Department of Transportation to install additional photo red light imaging detector systems.  Prohibits any vehicles from blocking marked crosswalks.  Authorizes the Department of Transportation to implement additional automated speed enforcement systems in school zones as designated by the Safe Routes to School Advisory Committee.  Requires annual reports.  Requires the Department of Transportation to collaborate with the Judiciary before any expansion of the photo red light imaging detector and automated speed enforcement systems.  Appropriates funds.  Effective 7/1/3000.  (HD3)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Conference committee meeting to reconvene on 04-25-25 5:15 PM; Conference Room 225.",
+      "date": "2025-04-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Conference Committee Meeting will reconvene on Friday, 04-25-25 at 3:30PM in Conference Room 411.",
+      "date": "2025-04-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Conference Committee Meeting will reconvene on Friday, 04-25-25 at 2:00PM in Conference Room 411.",
+      "date": "2025-04-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Conference Committee Meeting will reconvene on Friday, 04-25-25 at 12:30PM in Conference Room 329.",
+      "date": "2025-04-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Conference Committee Meeting will reconvene on Friday, 04-25-25 at 11:30AM in Conference Room 329.",
+      "date": "2025-04-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Conference committee meeting to reconvene on 04-25-25 9:30AM; Conference Room 329.",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Conference committee meeting to reconvene on 04-24-25 10:30AM; Conference Room 329.",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Conference committee meeting to reconvene on 04-23-25 10:30AM; Conference Room 329.",
+      "date": "2025-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Conference committee meeting scheduled for 04-22-25 10:40AM; Conference Room 329.",
+      "date": "2025-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Received notice of Senate conferees (Sen. Com. No. 829).",
+      "date": "2025-04-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Senate Conferees Appointed: Lee, C. Chairs; Hashimoto, Rhoads Co-Chairs; Fevella.",
+      "date": "2025-04-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Received notice of appointment of House conferees (Hse. Com. No. 757).",
+      "date": "2025-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "House Conferees Appointed: Kila, Tarnas, Grandinetti Co-Chairs; Pierick.",
+      "date": "2025-04-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Received notice of disagreement (Sen. Com. No. 779).",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Senate disagrees with House amendments.",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Received from House (Hse. Com. No. 702).",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Passed Third Reading as amended in HD 3 with Representative(s) Iwamoto voting aye with reservations; Representative(s) Alcos, Amato, Garcia, Muraoka, Souza voting no (5) and Representative(s) Cochran excused (1).  Transmitted to Senate.",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Forty-eight (48) hours notice Tuesday,  04-08-25.",
+      "date": "2025-04-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Reported from FIN (Stand. Com. Rep. No. 2020) as amended in HD 3, recommending passage on Third Reading.",
+      "date": "2025-04-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "The committee on FIN recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 14 Ayes: Representative(s) Yamashita, Takenouchi, Grandinetti, Holt, Hussey, Keohokapu-Lee Loy, Kitagawa, Kusch, Lamosao, Lee, M., Miyake, Morikawa, Templo, Reyes Oda; Ayes with reservations: none;  Noes: none; and 1 Excused: Representative(s) Alcos.",
+      "date": "2025-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Bill scheduled to be heard by FIN on Tuesday, 04-01-25 2:00PM in House conference room 308 VIA VIDEOCONFERENCE.",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Report adopted; referred to the committee(s) on FIN as amended in HD 2 with Representative(s) Amato, Shimizu voting aye with reservations; Representative(s) Alcos, Garcia voting no (2) and Representative(s) Cochran, Garrett, Kapela, Kitagawa, Ward excused (5).",
+      "date": "2025-03-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Reported from JHA (Stand. Com. Rep. No. 1454) as amended in HD 2, recommending referral to FIN.",
+      "date": "2025-03-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "The committee on JHA recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 9 Ayes: Representative(s) Tarnas, Poepoe, Belatti, Hashem, Kahaloa, Perruso, Takayama, Todd; Ayes with reservations: Representative(s) Shimizu; 1 Noes: Representative(s) Garcia; and 1 Excused: Representative(s) Cochran.",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Bill scheduled to be heard by JHA on Wednesday, 03-19-25 2:00PM in House conference room 325 VIA VIDEOCONFERENCE.",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Passed Second Reading as amended in HD 1 and referred to the committee(s) on JHA with Representative(s) Amato voting aye with reservations; Representative(s) Garcia voting no (1) and Representative(s) Cochran, Holt, Iwamoto, Ward excused (4).",
+      "date": "2025-03-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Reported from TRN (Stand. Com. Rep. No. 1235) as amended in HD 1, recommending passage on Second Reading and referral to JHA.",
+      "date": "2025-03-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "The committee on TRN recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 6 Ayes: Representative(s) Kila, Grandinetti, Evslin, Kitagawa, Miyake, Muraoka; Ayes with reservations: none;  Noes: none; and 3 Excused: Representative(s) Cochran, La Chica, Pierick.",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Bill scheduled for decision making on Thursday, 03-13-25 9:00AM in conference room 430 VIA VIDEOCONFERENCE.",
+      "date": "2025-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "The committee(s) on TRN recommend(s) that the measure be deferred until 03-13-25.",
+      "date": "2025-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Bill scheduled to be heard by TRN on Tuesday, 03-11-25 9:00AM in House conference room 430 VIA VIDEOCONFERENCE.",
+      "date": "2025-03-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Referred to TRN, JHA, FIN, referral sheet 19",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Pass First Reading",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Received from Senate (Sen. Com. No. 390) in amended form (SD 2).",
+      "date": "2025-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Report Adopted; Passed Third Reading, as amended (SD 2).  Ayes, 23; Aye(s) with reservations: Senator(s) Kim, McKelvey, San Buenaventura.  Noes, 2 (Senator(s) Awa, DeCorte).  Excused, 0 (none).  Transmitted to House.",
+      "date": "2025-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "48 Hrs. Notice 03-04-25.",
+      "date": "2025-02-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Reported from WAM/JDC (Stand. Com. Rep. No. 890) with recommendation of passage on Third Reading, as amended (SD 2).",
+      "date": "2025-02-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  JDC recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in JDC were as follows: 3 Aye(s): Senator(s) Rhoads, Chang, San Buenaventura; Aye(s) with reservations: none ; 1 No(es): Senator(s) Awa; and 1 Excused: Senator(s) Gabbard.",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  WAM recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in WAM were as follows: 13 Aye(s): Senator(s) Dela Cruz, Moriwaki, Aquino, DeCoite, Elefante, Hashimoto, Inouye, Kanuha, Kidani, Kim, Lee, C., Wakai, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "The committee(s) on WAM/JDC will hold a public decision making on 02-19-25 10:16AM; Conference Room 211 & Videoconference.",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to WAM/JDC.",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Reported from TCA (Stand. Com. Rep. No. 264) with recommendation of passage on Second Reading, as amended (SD 1) and referral to WAM/JDC.",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  TCA recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in TCA were as follows: 5 Aye(s): Senator(s) Lee, C., Inouye, Elefante, Kanuha, DeCorte; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "The committee(s) on TCA has scheduled a public hearing on 02-04-25 3:00PM; Conference Room 224 & Videoconference.",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Referred to TCA, WAM/JDC.",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation and Culture and the Arts",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Passed First Reading.",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Introduced.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "LEE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"LEE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"C.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB1667_HD3",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1667_HD3_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1667_HD3_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB1667_HD2",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1667_HD2_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1667_HD2_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB1667_HD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1667_HD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1667_HD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB1667_SD2",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1667_SD2_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1667_SD2_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB1667_SD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1667_SD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1667_SD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB1667",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1667_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1667_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1667&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "TRN, JHA, FIN"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:56Z"
+  }
+}

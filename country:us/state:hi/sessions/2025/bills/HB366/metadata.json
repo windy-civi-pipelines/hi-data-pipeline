@@ -1,0 +1,277 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB366",
+  "title": "RELATING TO RENEWABLE ENERGY.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Environmental Assessments",
+    "Environmental Impact Statements",
+    "Jurisdiction",
+    "Renewable Energy Projects",
+    "Supreme Court"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Requires contested cases, environmental assessment cases, or environmental impact statement cases involving renewable energy projects over twenty megawatts in size, except cases that involve any form of incineration, to be appealed from an agency's decision directly to the Hawaii Supreme Court for final decision.  Requires the cases to be prioritized and decided expeditiously.  Effective 7/1/3000.  (HD1)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "The committee(s) on JHA recommend(s) that the measure be deferred.",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Bill scheduled to be heard by JHA on Wednesday, 02-12-25 2:00PM in House conference room 325 VIA VIDEOCONFERENCE.",
+      "date": "2025-02-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Passed Second Reading as amended in HD 1 and referred to the committee(s) on JHA with none voting aye with reservations; Representative(s) Pierick voting no (1) and Representative(s) Cochran, Kong, Ward excused (3).",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Reported from EEP (Stand. Com. Rep. No. 97) as amended in HD 1, recommending passage on Second Reading and referral to JHA.",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "The committee on EEP recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 5 Ayes: Representative(s) Lowen, Perruso, Kahaloa, Kusch; Ayes with reservations: Representative(s) Quinlan;  Noes: none; and 1 Excused: Representative(s) Ward.",
+      "date": "2025-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Bill scheduled to be heard by EEP on Tuesday, 01-28-25 9:00AM in House conference room 325 VIA VIDEOCONFERENCE.",
+      "date": "2025-01-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Referred to EEP, JHA, CPC, referral sheet 1",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Energy & Environmental Protection",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Consumer Protection & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Introduced and Pass First Reading.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Pending introduction.",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "EVSLIN",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"EVSLIN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "KILA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"KILA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "KITAGAWA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"KITAGAWA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "LAMOSAO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"LAMOSAO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "LOWEN",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"LOWEN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "MARTEN",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MARTEN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "MATAYOSHI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MATAYOSHI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "MIYAKE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MIYAKE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "SOUZA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"SOUZA\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB366_HD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB366_HD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB366_HD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB366",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB366_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB366_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=366&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "EEP, JHA, CPC"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:52Z"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB1209",
+  "title": "RELATING TO CONDOMINIUM ASSOCIATIONS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Attorneys' Fees",
+    "Billing Statements",
+    "Communications",
+    "Condominium Associations",
+    "Notice of Default and Intention to Foreclosure"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Requires that the fees for attorneys retained by a condominium association be paid from an association's funds or reserves, except for collection of delinquent common dues payments from owners.  Limits the total and final legal fees to twenty-five per cent of the original debt amount.  Requires attorneys retained by a condominium association to confine their communications to the condominium board, except when the attorneys must request and require materials and responses directly from owners for each matter.  Prohibits attorneys retained by a condominium association from billing unit owners directly.  Specifies the contents of an attorney's billing statement.  Requires that a notice of default and intention to foreclose served on a unit owner affords the unit owner the opportunity to respond within thirty days after service of the notice."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to CPC, JHA, referral sheet 4",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Consumer Protection & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:53Z"
+      }
+    },
+    {
+      "description": "Introduced and Pass First Reading.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:53Z"
+      }
+    },
+    {
+      "description": "Pending introduction.",
+      "date": "2025-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "BELATTI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"BELATTI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "IWAMOTO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"IWAMOTO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "PERRUSO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"PERRUSO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "SOUZA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"SOUZA\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB1209",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1209_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1209_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1209&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "CPC, JHA"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:53Z"
+  }
+}

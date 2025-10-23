@@ -1,0 +1,484 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SCR5",
+  "title": "AUTHORIZING THE ISSUANCE OF A TWENTY-FIVE-YEAR TERM, NON\u2011EXCLUSIVE EASEMENT COVERING A PORTION OF STATE SUBMERGED LANDS AT WAIKIKI, HONOLULU, OAHU, FOR CONCRETE STAIRS, AND FOR USE, REPAIR, AND MAINTENANCE OF THE IMPROVEMENTS CONSTRUCTED THEREON.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "Authorizing the Issuance of a Twenty-Five-Year Term",
+    "Honolulu",
+    "Non-Exclusive Easement Covering a Portion Of State Submerged Lands at Waikiki",
+    "Oahu",
+    "Repair",
+    "and Maintenance of the Improvements Constructed Thereon",
+    "and for Use",
+    "for Concrete Stairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Received notice of Adoption (Sen. Com. No. 877).",
+      "date": "2025-04-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Resolution adopted in final form. 22 Aye(s); Aye(s) with reservations: Senator(s) McKelvey, Rhoads . 0 No(es): none. 3 Excused: Senator(s) Awa, Chang, Fevella.",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Received notice of reconsideration and Senate agreement (Sen. Com. No. 870).",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "One Day Notice 04-24-25",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Senate agrees with House Amendments. Placed on the calendar for Final Adoption on 04-24-25.",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Reconsideration of action taken on 04-21-25; agree to House amendments.",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Received notice of disagreement (Sen. Com. No. 846).",
+      "date": "2025-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Senate disagrees with House amendments.",
+      "date": "2025-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Received from House (Hse. Com. No. 772).",
+      "date": "2025-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Transmitted to Senate.",
+      "date": "2025-04-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Adopted as amended in HD 1 with Representative(s) Iwamoto, Souza voting aye with reservations; none voting no (0) and  Representative(s) Amato, Belatti, Cochran, Garrett, Ichiyama, Perruso, Quinlan excused (7).",
+      "date": "2025-04-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Reported from FIN (Stand. Com. Rep. No. 2135) as amended in HD 1, recommending adoption.",
+      "date": "2025-04-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "The committee on FIN recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 14 Ayes: Representative(s) Yamashita, Takenouchi, Grandinetti, Holt, Hussey, Keohokapu-Lee Loy, Kusch, Lamosao, Lee, M., Miyake, Morikawa, Templo, Alcos, Reyes Oda; Ayes with reservations: none; 0 Noes: none; and 1 Excused: Representative(s) Kitagawa.",
+      "date": "2025-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Scheduled for decision making on Wednesday, 04-16-25 2:00PM in conference room 309 VIA VIDEOCONFERENCE.",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Report adopted; referred to the committee(s) on FIN with none voting aye with reservations; none voting no (0) and none excused (0).",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Reported from WAL (Stand. Com. Rep. No. 2084), recommending referral to FIN.",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "The committee on WAL recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 7 Ayes: Representative(s) Hashem, Lamosao, Morikawa, Shimizu; Ayes with reservations: Representative(s) Belatti, Iwamoto, Souza;  Noes: none; and 3 Excused: Representative(s) Ichiyama, Poepoe, Woodson.",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "The votes in WAL were as follows: 7 Ayes: Representative(s) Hashem, Lamosao, Belatti, Iwamoto, Morikawa, Shimizu, Souza;  Ayes with reservations: none;  Noes: none; and 3 Excused: Representative(s) Ichiyama, Poepoe, Woodson.",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Reconsideration of action taken on 04-10-25.",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "The committee on WAL recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 7 Ayes: Representative(s) Hashem, Lamosao, Morikawa, Shimizu; Ayes with reservations: Representative(s) Belatti, Iwamoto, Souza;  Noes: none; and 3 Excused: Representative(s) Ichiyama, Poepoe, Woodson.",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Resolution scheduled to be heard by WAL on Thursday, 04-10-25 9:30AM in conference room 411 VIA VIDEOCONFERENCE.",
+      "date": "2025-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Referred to WAL, FIN, referral sheet 28",
+      "date": "2025-04-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Water & Land",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Received from Senate (Sen. Com. No. 412) in amended form (SD 1).",
+      "date": "2025-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Resolution Adopted as amended (SD1).  Aye(s) with reservations: none. Noes, 1 (Senator(s) Rhoads). Transmitted to House.",
+      "date": "2025-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "One Day Notice 03-31-25",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Waived referral to WAM.",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Report adopted, as amended (SD 1) and referred to WAM.",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Reported from WTL (Stand. Com. Rep. No. 1072), as amended (SD 1), with recommendation of referral to WAM.",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  WTL recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in WTL were as follows: 4 Aye(s): Senator(s) Inouye, Elefante, McKelvey, DeCorte; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Chang.",
+      "date": "2025-03-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "The committee(s) on WTL has scheduled a public hearing on 03-07-25 1:00PM; Conference Room 229 & Videoconference.",
+      "date": "2025-02-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Referred to WTL, WAM.",
+      "date": "2025-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Water and Land",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Offered.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "KOUCHI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"KOUCHI\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HCR 5",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "SCR5_HD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SCR5_HD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SCR5_HD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SCR5_SD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SCR5_SD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SCR5_SD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SCR5",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SCR5_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SCR5_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=5&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "WAL, FIN"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:13:00Z"
+  }
+}

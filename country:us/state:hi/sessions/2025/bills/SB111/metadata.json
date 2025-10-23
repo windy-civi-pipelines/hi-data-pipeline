@@ -1,0 +1,177 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB111",
+  "title": "RELATING TO HURRICANE RESISTANT CRITERIA.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Disaster Preparedness",
+    "Hurricane",
+    "New State Buildings",
+    "Public Improvements",
+    "Standards",
+    "State Building Design and Construction"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Requires the State to consider hurricane resistant criteria when designing and constructing new state buildings, constructed on or after 7/1/2025, for the capability of providing shelter refuge."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "The committee on GVO deferred the measure.",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "The committee(s) on GVO deferred the measure until 02-04-25 3:00PM; CR 225.",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  PSM recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in PSM were as follows: 5 Aye(s): Senator(s) Elefante, Wakai, Fukunaga, Rhoads, DeCorte; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "The committee(s) on PSM/GVO has scheduled a public hearing on 01-31-25 3:00PM; Conference Room 225 & Videoconference.",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Referred to PSM/GVO, WAM.",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Safety and Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Government Operations",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Introduced and passed First Reading.",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Pending Introduction.",
+      "date": "2025-01-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "RHOADS",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"RHOADS\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HB 659",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "SB111",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB111_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB111_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=111&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "PSM/GVO, WAM"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:54Z"
+  }
+}

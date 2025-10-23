@@ -1,0 +1,33 @@
+{
+  "action": {
+    "description": "Referred to TRN/PBS, WAL, FIN, referral sheet 3",
+    "date": "2025-01-23",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Transportation",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Public Safety",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Water & Land",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Finance",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB823"
+}

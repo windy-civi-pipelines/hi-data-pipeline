@@ -1,0 +1,209 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB1342",
+  "title": "RELATING TO OFFENDER REENTRY PROGRAMS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriation ($)",
+    "Offender Re-entry Programs",
+    "Recidivism"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Expands programming and training for the comprehensive offender re-entry program under the Department of Corrections and Rehabilitation to reduce the rate of recidivism and increase inmate marketability and workforce readiness.  Appropriates funds."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to PBS, JHA, FIN, referral sheet 4",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Safety",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Introduced and Pass First Reading.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "SHIMIZU",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"SHIMIZU\"}",
+      "organization_id": null
+    },
+    {
+      "name": "AMATO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"AMATO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "BELATTI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"BELATTI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "GRANDINETTI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"GRANDINETTI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "IWAMOTO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"IWAMOTO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "KUSCH",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"KUSCH\"}",
+      "organization_id": null
+    },
+    {
+      "name": "LA CHICA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"LA CHICA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "MATAYOSHI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MATAYOSHI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "MATSUMOTO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MATSUMOTO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "OLDS",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"OLDS\"}",
+      "organization_id": null
+    },
+    {
+      "name": "PIERICK",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"PIERICK\"}",
+      "organization_id": null
+    },
+    {
+      "name": "TAKAYAMA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"TAKAYAMA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "WARD",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"WARD\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB1342",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1342_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1342_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1342&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "PBS, JHA, FIN"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:55Z"
+  }
+}

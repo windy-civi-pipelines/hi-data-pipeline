@@ -1,0 +1,254 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HCR19",
+  "title": "URGING THE GOVERNOR TO CREATE A TASK FORCE ON MILITARY PARTNERSHIP TO DEVELOP AND STRENGTHEN THE PUBLIC-MILITARY RELATIONSHIP IN HAWAII.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "Military",
+    "Report",
+    "Task Force on Military Partnership"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to PSM.",
+      "date": "2025-04-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Safety and Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Received from House (Hse. Com. No. 501).",
+      "date": "2025-04-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Adopted with none voting aye with reservations; Representative(s) Amato, Iwamoto, Souza voting no (3) and  Representative(s) Cochran, Woodson excused (2).",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Reported from PBS (Stand. Com. Rep. No. 1891), recommending adoption.",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "The committee on PBS recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 7 Ayes: Representative(s) Belatti, Hashem, Lamosao, Morikawa, Woodson, Shimizu; Ayes with reservations: Representative(s) Souza; 1 Noes: Representative(s) Iwamoto; and 2 Excused: Representative(s) Ichiyama, Poepoe.",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "The votes in PBS were as follows: 8 Ayes: Representative(s) Belatti, Iwamoto, Hashem, Lamosao, Morikawa, Woodson, Shimizu, Souza;  Ayes with reservations: none;  Noes: none; and 2 Excused: Representative(s) Ichiyama, Poepoe.",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Reconsideration of action taken on Friday, 03-28-25.",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Resolution scheduled for reconsideration of previous decision by PBS on 04-02-25 11:00AM in conference room 411 VIA VIDEOCONFERENCE.",
+      "date": "2025-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "The committee on PBS recommend that the measure be PASSED, WITH AMENDMENTS.  The recommendation was not adopted.  The votes were as follows: 3 Ayes: Representative(s) Iwamoto, Hashem, Souza; Ayes with reservations: none; 5 Noes: Representative(s) Belatti, Lamosao, Morikawa, Poepoe, Shimizu; and 2 Excused: Representative(s) Ichiyama, Woodson.",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Resolution scheduled to be heard by PBS on Friday, 03-28-25 9:00AM in conference room 325 VIA VIDEOCONFERENCE.",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Referred to PBS, referral sheet 22",
+      "date": "2025-03-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Safety",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Offered",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "To be offered.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "SHIMIZU",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"SHIMIZU\"}",
+      "organization_id": null
+    },
+    {
+      "name": "GARCIA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"GARCIA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "MARTEN",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MARTEN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "PIERICK",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"PIERICK\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HR 19",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "HCR19",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HCR19_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HCR19_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HCR&billnumber=19&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "PSM"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:52Z"
+  }
+}

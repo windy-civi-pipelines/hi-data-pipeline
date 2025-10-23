@@ -1,0 +1,125 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB1600",
+  "title": "RELATING TO THE PUBLIC LAND TRUST WORKING GROUP.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations ($)",
+    "OHA",
+    "Public Land Trust Information System",
+    "Public Land Trust Working Group"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Appropriates funds to the Office of Hawaiian Affairs to hire necessary staff, purchase equipment, and retain professional services on behalf of the Public Land Trust Working Group."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to HWN/WTL, WAM.",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Water and Land",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:59Z"
+      }
+    },
+    {
+      "description": "Passed First Reading.",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:59Z"
+      }
+    },
+    {
+      "description": "Introduced.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "INOUYE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"INOUYE\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB1600",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1600_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1600_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1600&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "HWN/WTL, WAM"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:59Z"
+  }
+}

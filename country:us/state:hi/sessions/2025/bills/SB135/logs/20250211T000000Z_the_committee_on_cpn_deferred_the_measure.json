@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The committee on CPN deferred the measure.",
+    "date": "2025-02-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB135"
+}

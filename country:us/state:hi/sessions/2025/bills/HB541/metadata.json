@@ -1,0 +1,187 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB541",
+  "title": "RELATING TO URBAN DEVELOPMENT.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accessory Dwelling Units",
+    "Consolidation",
+    "Counties",
+    "Impact Fees Assessment",
+    "Land Use",
+    "Private Covenants",
+    "Residentially Zoned Lots",
+    "Resubdivision",
+    "Subdivision",
+    "Urban District",
+    "Zoning"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Makes certain urban development and land use requirements applicable only to counties with a population of less than five hundred thousand, including:  vesting the director of the county land use agency with the administrative authority to act on any application for subdivision, consolidation, or resubdivision; the required adoption or amendment of an ordinance to allow at least two accessory dwelling units, subject to certain conditions, on all residentially zoned lots; the calculation of certain school impact fees; and a prohibition on private covenants that include certain limitations or restrictions for residentially zoned lots within an urban district."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to HSG, WAL, JHA, referral sheet 2",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Water & Land",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Introduced and Pass First Reading.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Pending introduction.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "GARRETT",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"GARRETT\"}",
+      "organization_id": null
+    },
+    {
+      "name": "BELATTI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"BELATTI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "GRANDINETTI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"GRANDINETTI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "MARTEN",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MARTEN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "MATAYOSHI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MATAYOSHI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "PERRUSO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"PERRUSO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "TAKENOUCHI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"TAKENOUCHI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chun",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chun\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB541",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB541_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB541_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=541&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "HSG, WAL, JHA"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:58Z"
+  }
+}

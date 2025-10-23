@@ -1,0 +1,126 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB1326",
+  "title": "RELATING TO THE HAWAII COMMUNITY DEVELOPMENT AUTHORITY.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Department of Business",
+    "Economic Development",
+    "HCDA",
+    "Program",
+    "Transit-Oriented Development Infrastructure Improvement Program",
+    "and Tourism"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Authorizes the Hawaii Community Development Authority to cooperate with or assist public and private sector entities to engage in projects that improve the State.  Establishes the transit-oriented development infrastructure improvement program.  Repeals the transit-oriented development infrastructure improvement district and board, under chapter 206E, part X, HRS.  Makes additional consistent revisions to chapter 206E."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to TCA, WAM.",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation and Culture and the Arts",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:59Z"
+      }
+    },
+    {
+      "description": "Introduced and passed First Reading.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:59Z"
+      }
+    },
+    {
+      "description": "Pending Introduction.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "KOUCHI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"KOUCHI\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HB 1007",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "SB1326",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1326_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1326_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1326&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "TCA, WAM"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:59Z"
+  }
+}

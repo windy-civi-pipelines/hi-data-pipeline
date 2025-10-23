@@ -1,0 +1,411 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB458",
+  "title": "RELATING TO BROTHER JOSEPH DUTTON DAY.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Brother Joseph Dutton Day",
+    "Day of Observance"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Designates April 27 of every year as Brother Joseph Dutton Day.  Effective 4/27/2843.  (SD1)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Received notice of disagreement (Hse. Com. No. 704).",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "House disagrees with Senate amendment (s).",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Returned from Senate (Sen. Com. No.  642) in amended form (SD 1).",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Passed Third Reading, as amended (SD 1).  Ayes, 25; Aye(s) with reservations: none.  Noes, 0 (none).  Excused, 0 (none).  Transmitted to House.",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "48 Hrs. Notice 04-08-25.",
+      "date": "2025-04-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Report adopted; Passed Second Reading, as amended (SD 1).",
+      "date": "2025-04-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Reported from TCA (Stand. Com. Rep. No. 1731) with recommendation of passage on Second Reading, as amended (SD 1) and placement on the calendar for Third Reading.",
+      "date": "2025-04-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  TCA recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in TCA were as follows: 5 Aye(s): Senator(s) Lee, C., Inouye, Elefante, Kanuha, DeCorte; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "The committee(s) on TCA has scheduled a public hearing on 03-13-25 3:15PM; Conference Room 224 & Videoconference.",
+      "date": "2025-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Referred to TCA.",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation and Culture and the Arts",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Passed First Reading.",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Received from House (Hse. Com. No. 242).",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Passed Third Reading as amended in HD 2 with none voting aye with reservations; Representative(s) Alcos, Garcia, Muraoka voting no (3) and Representative(s) Pierick, Ward excused (2).  Transmitted to Senate.",
+      "date": "2025-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Forty-eight (48) hours notice Tuesday,  03-04-25.",
+      "date": "2025-02-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Reported from JHA (Stand. Com. Rep. No. 1089) as amended in HD 2, recommending passage on Third Reading.",
+      "date": "2025-02-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "The committee on JHA recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 9 Ayes: Representative(s) Tarnas, Poepoe, Belatti, Hashem, Kahaloa, Perruso, Takayama, Shimizu; Ayes with reservations: Representative(s) Garcia; 0 Noes: none; and 2 Excused: Representative(s) Cochran, Todd.",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Bill scheduled to be heard by JHA on Friday, 02-21-25 2:00PM in House conference room 325 VIA VIDEOCONFERENCE.",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Passed Second Reading as amended in HD 1 and referred to the committee(s) on JHA with none voting aye with reservations; Representative(s) Garcia voting no (1) and Representative(s) Belatti, Cochran, Kila, Ward excused (4).",
+      "date": "2025-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Reported from CAA (Stand. Com. Rep. No. 297) as amended in HD 1, recommending passage on Second Reading and referral to JHA.",
+      "date": "2025-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "The committee on CAA recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 5 Ayes: Representative(s) Kapela, Kong, Garrett, Lee, M., Sayama; Ayes with reservations: none;  Noes: none; and 1 Excused: Representative(s) Reyes Oda.",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Bill scheduled to be heard by CAA on Wednesday, 02-05-25 10:30AM in House conference room 309 VIA VIDEOCONFERENCE.",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Referred to CAA, JHA, referral sheet 2",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Culture & Arts",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Introduced and Pass First Reading.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    },
+    {
+      "description": "Pending introduction.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "ILAGAN",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"ILAGAN\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB458_SD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB458_SD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB458_SD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB458_HD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB458_HD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB458_HD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB458_HD2",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB458_HD2_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB458_HD2_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB458",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB458_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB458_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=458&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "TCA"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:58Z"
+  }
+}

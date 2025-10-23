@@ -1,0 +1,340 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB1411",
+  "title": "RELATING TO HOUSING PREFERENCE.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Affordable Housing",
+    "Geographic Preferences",
+    "HHFDC"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Authorizes the Hawaii Housing Finance and Development Corporation to allow projects to grant preferences in the sale or lease of housing units to applicants who live or work within five miles of the project.  Takes effect 7/1/2050.  (SD1)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to WAM.",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Reported from HOU (Stand. Com. Rep. No. 1097) with recommendation of passage on Second Reading, as amended (SD 1) and referral to WAM.",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  HOU recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in HOU were as follows: 3 Aye(s): Senator(s) Chang, Hashimoto, Kanuha; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) Aquino, Fevella.",
+      "date": "2025-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "The committee(s) on HOU has scheduled a public hearing on 03-11-25 1:10PM; Conference Room 225 & Videoconference.",
+      "date": "2025-03-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Referred to HOU, WAM.",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Passed First Reading.",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Received from House (Hse. Com. No. 369).",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Passed Third Reading with none voting aye with reservations; none voting no (0) and Representative(s) Pierick, Ward excused (2).  Transmitted to Senate.",
+      "date": "2025-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Reported from JHA (Stand. Com. Rep. No. 1064), recommending passage on Third Reading.",
+      "date": "2025-02-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "The committee on JHA recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 9 Ayes: Representative(s) Tarnas, Poepoe, Belatti, Hashem, Perruso, Takayama, Todd, Garcia, Shimizu; Ayes with reservations: none; 0 Noes: none; and 2 Excused: Representative(s) Cochran, Kahaloa.",
+      "date": "2025-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Bill scheduled to be heard by JHA on Wednesday, 02-26-25 2:00PM in House conference room 325 VIA VIDEOCONFERENCE.",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Passed Second Reading as amended in HD 1 and referred to the committee(s) on JHA with none voting aye with reservations; Representative(s) Pierick voting no (1) and Representative(s) Cochran, Sayama, Ward excused (3).",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Reported from HSG (Stand. Com. Rep. No. 492) as amended in HD 1, recommending passage on Second Reading and referral to JHA.",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "The committee on HSG recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 6 Ayes: Representative(s) Evslin, Miyake, Grandinetti, Kitagawa, La Chica, Muraoka; Ayes with reservations: none; 1 Noes: Representative(s) Pierick; and 2 Excused: Representative(s) Cochran, Kila.",
+      "date": "2025-02-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Bill scheduled to be heard by HSG on Friday, 02-07-25 9:00AM in House conference room 430 VIA VIDEOCONFERENCE.",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Referred to HSG, JHA, referral sheet 4",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Introduced and Pass First Reading.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "EVSLIN",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"EVSLIN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "MIYAKE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MIYAKE\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB1411_SD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1411_SD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1411_SD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB1411_HD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1411_HD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1411_HD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB1411",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1411_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1411_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1411&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "HOU, WAM"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:55Z"
+  }
+}

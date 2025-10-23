@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2025",
+  "identifier": "GM530",
+  "title": "Submitting for consideration and confirmation to the Board of Land and Natural Resources, Gubernatorial Nominee, KAREN ONO, for a term to expire 06-30-2028.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "proclamation"
+  ],
+  "subject": [
+    "Board of Land and Natural Resources"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Confirmed. Ayes, 23. Aye(s) with reservations: none.  Noes, 0 (none). Excused, 2 (Senator(s) Fevella, Ihara).",
+      "date": "2025-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "One Day Notice 04-16-25.",
+      "date": "2025-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Reported from WTL (Stand. Com. Rep. No. 1891) with recommendation to Advise and Consent.",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "The recommendation of the committee(s) on WTL is to ADVISE AND CONSENT to the nomination(s).  The votes in WTL were as follows: 4 Aye(s): Senator(s) Inouye, Elefante, DeCorte; Aye(s) with reservations: Senator(s) Chang ; 0 No(es): none; and 1 Excused: Senator(s) McKelvey.",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "The committee(s) on WTL has scheduled a public hearing on 03-12-25 1:00PM; Conference Room 229 & Videoconference.",
+      "date": "2025-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Referred to WTL.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Water and Land",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Received.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "governor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"governor\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "GM530",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/GM530_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=530&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "WTL"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:57Z"
+  }
+}

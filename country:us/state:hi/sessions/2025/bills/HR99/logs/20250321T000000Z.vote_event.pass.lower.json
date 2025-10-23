@@ -1,0 +1,74 @@
+{
+  "identifier": "",
+  "motion_text": "The committee on AGR recommend that the measure be PASSED, UNAMENDED.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HR99\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HR99",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Kahaloa",
+      "voter_id": "~{\"name\": \"Kahaloa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kusch",
+      "voter_id": "~{\"name\": \"Kusch\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Perruso",
+      "voter_id": "~{\"name\": \"Perruso\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Quinlan",
+      "voter_id": "~{\"name\": \"Quinlan\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Lowen",
+      "voter_id": "~{\"name\": \"Lowen\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Ward",
+      "voter_id": "~{\"name\": \"Ward\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HR&billnumber=99&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "2#HR99#2025-03-21#The committee on AGR recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 4 Ayes: Representative(s) Kahaloa, Kusch, Perruso, Quinlan; Ayes with reservations: none; 0 Noes: none; and 2 Excused: Representative(s) Lowen, Ward."
+}

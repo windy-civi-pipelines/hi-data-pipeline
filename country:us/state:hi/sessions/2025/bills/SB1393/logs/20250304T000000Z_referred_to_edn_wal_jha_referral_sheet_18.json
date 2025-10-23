@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Referred to EDN, WAL, JHA, referral sheet 18",
+    "date": "2025-03-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Education",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Water & Land",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Judiciary & Hawaiian Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB1393"
+}

@@ -1,0 +1,176 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB503",
+  "title": "RELATING TO DAM AND RESERVOIR SAFETY.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "BLNR",
+    "Burden of Proof",
+    "DLNR",
+    "Dam Insurance",
+    "Dam and Appurtenance Improvement or Removal Grant Program",
+    "Dam and Reservoir Safety",
+    "High Hazard",
+    "Inspections",
+    "Risk Assessment",
+    "Risk Mitigation"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Requires the Department of Land and Natural Resources to incorporate into their assessment process the possession of dam insurance or the active seeking of dam insurance by private dam owners, as part of their valid mitigation strategies, in conjunction with approved modifications or repairs.  Authorizes the DLNR to relax any restrictions and stringent standards on a dam or appurtenance upon verification of certain insurance coverage.  Authorizes the DLNR to consider a dam, reservoir, or appurtenance is safe absent certain documents.  Shifts the burden of proof to the DLNR to find that a dam is categorized as high-risk.  Establishes additional requirements for the DLNR and Board of Land and Natural Resources regarding the Dam and Appurtenance Improvement or Removal Grant Program."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to WTL/CPN, WAM/JDC.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Water and Land",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Commerce and Consumer Protection",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Passed First Reading.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Introduced.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "RICHARDS",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"RICHARDS\"}",
+      "organization_id": null
+    },
+    {
+      "name": "CHANG",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"CHANG\"}",
+      "organization_id": null
+    },
+    {
+      "name": "FEVELLA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"FEVELLA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "HASHIMOTO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"HASHIMOTO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "MCKELVEY",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MCKELVEY\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fukunaga",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Fukunaga\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB503",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB503_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB503_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=503&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "WTL/CPN, WAM/JDC"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:54Z"
+  }
+}

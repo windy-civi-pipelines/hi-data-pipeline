@@ -1,0 +1,37 @@
+{
+  "identifier": "",
+  "motion_text": "Report Adopted; Passed Third Reading.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-03",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB1259\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB1259",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 24
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1259&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "23#HB1259#2025-04-03#Report Adopted; Passed Third Reading. Ayes, 24; Aye(s) with reservations: none.  Noes, 1 (Senator(s) San Buenaventura).  Excused, 0 (none).  Transmitted to House."
+}

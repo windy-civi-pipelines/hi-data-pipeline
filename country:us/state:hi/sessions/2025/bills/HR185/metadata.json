@@ -1,0 +1,229 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HR185",
+  "title": "REQUESTING THE DEPARTMENT OF LAND AND NATURAL RESOURCES TO CONVENE A KAILUA BAY ADVISORY WORKING GROUP.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [
+    "DLNR",
+    "DOBOR",
+    "Kailua Pier"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Resolution adopted in final form.",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Adopted with none voting aye with reservations; none voting no (0) and  Representative(s) Cochran, Woodson excused (2).",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Reported from FIN (Stand. Com. Rep. No. 1813), recommending adoption.",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "The committee on FIN recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 14 Ayes: Representative(s) Yamashita, Takenouchi, Grandinetti, Holt, Hussey, Keohokapu-Lee Loy, Kitagawa, Kusch, Lamosao, Lee, M., Miyake, Morikawa, Templo, Alcos; Ayes with reservations: none; 0 Noes: none; and 2 Excused: Representative(s) Reyes Oda, Ward.",
+      "date": "2025-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Scheduled for decision making on Monday, 03-31-25 10:15AM in conference room 308 VIA VIDEOCONFERENCE.",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Report adopted; referred to the committee(s) on FIN as amended in HD 1 with none voting aye with reservations; none voting no (0) and Representative(s) Cochran, Hussey, Muraoka, Ward excused (4).",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Reported from WAL (Stand. Com. Rep. No. 1692) as amended in HD 1, recommending referral to FIN.",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "The committee on WAL recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 10 Ayes: Representative(s) Hashem, Lamosao, Belatti, Ichiyama, Iwamoto, Morikawa, Poepoe, Woodson, Shimizu, Souza; Ayes with reservations: none;  Noes: none; and  Excused: none.",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Resolution scheduled to be heard by WAL on Tuesday, 03-25-25 9:40AM in conference room 411 VIA VIDEOCONFERENCE.",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Referred to WAL, FIN, referral sheet 22",
+      "date": "2025-03-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Water & Land",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    },
+    {
+      "description": "Offered",
+      "date": "2025-03-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "LOWEN",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"LOWEN\"}",
+      "organization_id": null
+    },
+    {
+      "name": "KAHALOA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"KAHALOA\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HCR 191",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "HR185",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HR185_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HR185_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HR185_HD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HR185_HD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HR185_HD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HR&billnumber=185&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "WAL, FIN"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:13:00Z"
+  }
+}

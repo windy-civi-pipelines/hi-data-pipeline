@@ -1,0 +1,37 @@
+{
+  "identifier": "",
+  "motion_text": "Report adopted; Passed Third Reading.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB534\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB534",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 25
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=534&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "26#HB534#2025-04-08#Report adopted; Passed Third Reading.  Ayes, 25; Aye(s) with reservations: none .  Noes, 0 (none). Excused, 0 (none).  Transmitted to House."
+}

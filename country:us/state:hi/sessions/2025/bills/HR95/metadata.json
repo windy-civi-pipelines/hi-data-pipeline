@@ -1,0 +1,183 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HR95",
+  "title": "REQUESTING THE HAWAII STATE LGBTQ+ COMMISSION AND HAWAII STATE COMMISSION ON THE STATUS OF WOMEN TO COLLABORATE AND CONDUCT A COMPREHENSIVE REVIEW OF THE HAWAII REVISED STATUTES AND RECOMMEND AMENDMENTS TO INCORPORATE GENDER-NEUTRAL TERMINOLOGY.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [
+    "Gender-Neutral Terminology",
+    "Hawaii State Commission on the Status of Women",
+    "Hawaii State LGBTQ+ Commission",
+    "Inclusive Language",
+    "Report"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Report adopted; referred to the committee(s) on JHA as amended in HD 1 with Representative(s) Shimizu voting aye with reservations; Representative(s) Alcos, Garcia, Matsumoto, Pierick voting no (4) and Representative(s) Cochran, Hussey, Muraoka, Ward excused (4).",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Reported from HSH (Stand. Com. Rep. No. 1680) as amended in HD 1, recommending referral to JHA.",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "The committee on HSH recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 6 Ayes: Representative(s) Marten, Olds, Amato, Chun, Keohokapu-Lee Loy, Takayama; Ayes with reservations: none; 2 Noes: Representative(s) Alcos, Garcia; and 1 Excused: Representative(s) Takenouchi.",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Resolution scheduled to be heard by HSH on Thursday, 03-20-25 10:15AM in conference room 329 VIA VIDEOCONFERENCE.",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Referred to HSH, JHA, referral sheet 22",
+      "date": "2025-03-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Human Services & Homelessness",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    },
+    {
+      "description": "Offered",
+      "date": "2025-03-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "TAM",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"TAM\"}",
+      "organization_id": null
+    },
+    {
+      "name": "AMATO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"AMATO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "PERRUSO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"PERRUSO\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HCR 99",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "HR95",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HR95_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HR95_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HR95_HD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HR95_HD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HR95_HD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HR&billnumber=95&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "HSH, JHA"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:56Z"
+  }
+}

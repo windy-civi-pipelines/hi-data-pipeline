@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to FIN, referral sheet 22",
+    "date": "2025-03-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Finance",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HCR182"
+}

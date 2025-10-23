@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Received.",
+    "date": "2025-01-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "GM600"
+}

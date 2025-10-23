@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Re-referred to HLT, referral sheet 34",
+    "date": "2025-04-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Health",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SCR86"
+}

@@ -1,0 +1,131 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB1003",
+  "title": "RELATING TO MENTAL HEALTH.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Administration of Treatment Over the Patient's Objection",
+    "Admission to Psychiatric Facility",
+    "Assisted Community Treatment",
+    "Confidentiality",
+    "Emergency Examination",
+    "Emergency Hospitalization",
+    "Emergency Transportation",
+    "Involuntary Hospitalization",
+    "Limited Liability",
+    "Mental Health"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Clarifies and expands the circumstances and procedures available for emergency transportation, examination, and hospitalization under chapter 334.  Provides limits on liability for state and local governments and professionals during mental health emergency procedures while performing their duties in the course of employment.  Expands the notice requirements for an emergency hospitalization to include an individual's health-care surrogate and clarifies when notice to family members can be waived.  Removes the authority of the family court to appoint a legal guardian in a proceeding for involuntary hospitalization.  Removes the requirement that psychiatric facilities wait for a response on a notice of intent to discharge an involuntary hospitalization patient prior to discharge.  Clarifies the circumstances under which a subject of an order for assisted community treatment can be administered medication over the subject's objection.  Provides limits on liability for an assisted community treatment provider.  Modifies the administrative authorization of medical treatment over the patient's objection to be reviewed by a single decision-maker who is a psychiatrist."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to HLT, JHA, referral sheet 3",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Introduced and Pass First Reading.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    },
+    {
+      "description": "Pending introduction.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "NAKAMURA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"NAKAMURA\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SB 1322",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "HB1003",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1003_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1003_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1003&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "HLT, JHA"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:57Z"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB74",
+  "title": "RELATING TO STATE CONSTRUCTION PROJECTS.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations ($)",
+    "County Building Permit",
+    "DAGS",
+    "Design Approvals",
+    "Design Review Special Fund",
+    "Exemptions",
+    "Governor",
+    "Inspection",
+    "Office of the State Architect",
+    "Report",
+    "State Architect",
+    "State Construction Projects",
+    "and Certificate of Occupancy Requirements"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Establishes the Office of the State Architect within the Department of Accounting and General Services to be headed by the State Architect.  Authorizes the State Architect to organize, manage, and oversee the design review of all state construction projects and issue design approvals.  Establishes the Design Review Special Fund.  Requires the State Architect to submit a report to the Governor and Legislature.  Authorizes DAGS to provide centralized design review services for state construction projects and issue design approvals through the State Architect.  Exempts state construction projects from county building permit, inspection, and certificate of occupancy requirements, subject to certain conditions.  Makes appropriations."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "The committee on GVO deferred the measure.",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:53Z"
+      }
+    },
+    {
+      "description": "The committee(s) on GVO deferred the measure until 02-06-25 3:00PM; Conference Room 225.",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:53Z"
+      }
+    },
+    {
+      "description": "The committee(s) on GVO has scheduled a public hearing on 02-04-25 3:05PM; Conference Room 225 & Videoconference.",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:53Z"
+      }
+    },
+    {
+      "description": "Re-Referred to GVO, WAM/JDC.",
+      "date": "2025-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:53Z"
+      }
+    },
+    {
+      "description": "Referred to GVO/EIG, WAM/JDC.",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Government Operations",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Energy and Intergovernmental Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:53Z"
+      }
+    },
+    {
+      "description": "Introduced and passed First Reading.",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:53Z"
+      }
+    },
+    {
+      "description": "Pending Introduction.",
+      "date": "2025-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "CHANG",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"CHANG\"}",
+      "organization_id": null
+    },
+    {
+      "name": "FEVELLA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"FEVELLA\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HB 971",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "SB74",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB74_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB74_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=74&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "GVO, WAM/JDC"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:53Z"
+  }
+}

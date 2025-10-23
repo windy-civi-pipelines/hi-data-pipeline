@@ -1,0 +1,468 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB1450",
+  "title": "RELATING TO AGRICULTURAL CLIMATE RESILIENCY.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations ($)",
+    "Climate-Resilient Food Systems Grant Pilot Program",
+    "DOA",
+    "Reports"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Establishes a three-year Climate-Resilient Food Systems Grant Pilot Program, to be administered by the Department of Agriculture.  Requires reports to the Legislature.  Appropriates funds.  Effective 7/1/2050.  (SD1)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Received notice of Senate conferees (Sen. Com. No. 788).",
+      "date": "2025-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Senate Conferees Appointed: Gabbard Chair; Inouye Co-Chair; Richards, Fevella.",
+      "date": "2025-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Received notice of disagreement (Hse. Com. No. 559).",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "House disagrees with Senate amendment (s).",
+      "date": "2025-04-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Returned from Senate (Sen. Com. No.  564) in amended form (SD 1).",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Report Adopted; Passed Third Reading. Ayes, 24; Aye(s) with reservations: none.  Noes, 1 (Senator(s) Awa).  Excused, 0 (none).  Transmitted to House.",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "One Day Notice 04-03-25.",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Reported from WAM (Stand. Com. Rep. No. 1526) with recommendation of passage on Third Reading.",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "The committee(s) on WAM recommend(s) that the measure be PASSED, UNAMENDED.  The votes in WAM were as follows: 12 Aye(s): Senator(s) Dela Cruz, Moriwaki, Aquino, DeCoite, Elefante, Hashimoto, Inouye, Kanuha, Kidani, Kim, Wakai, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Lee, C..",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "The committee(s) on WAM will hold a public decision making on 03-28-25 10:02AM; Conference Room 211 & Videoconference.",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to WAM.",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Reported from AEN (Stand. Com. Rep. No. 1076) with recommendation of passage on Second Reading, as amended (SD 1) and referral to WAM.",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "The committee(s) on  AEN recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in AEN were as follows: 3 Aye(s): Senator(s) Gabbard, Richards, DeCoite; Aye(s) with reservations: none ; 1 No(es): Senator(s) Awa; and 1 Excused: Senator(s) Rhoads.",
+      "date": "2025-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "The committee(s) on AEN has scheduled a public hearing on 03-10-25 1:01PM; Conference Room 224 & Videoconference.",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Referred to AEN, WAM.",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Agriculture and Environment",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Passed First Reading.",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Received from House (Hse. Com. No. 376).",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Passed Third Reading as amended in HD 2 with none voting aye with reservations; Representative(s) Garcia voting no (1) and Representative(s) Pierick, Ward excused (2).  Transmitted to Senate.",
+      "date": "2025-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Forty-eight (48) hours notice Tuesday,  03-04-25.",
+      "date": "2025-02-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Reported from FIN (Stand. Com. Rep. No. 1109) as amended in HD 2, recommending passage on Third Reading.",
+      "date": "2025-02-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "The committee on FIN recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 14 Ayes: Representative(s) Yamashita, Takenouchi, Grandinetti, Holt, Hussey, Keohokapu-Lee Loy, Kitagawa, Kusch, Lamosao, Lee, M., Miyake, Morikawa, Templo, Reyes Oda; Ayes with reservations: none;  Noes: none; and 2 Excused: Representative(s) Alcos, Ward.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Bill scheduled to be heard by FIN on Thursday, 02-20-25 2:00PM in House conference room 308 VIA VIDEOCONFERENCE.",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Passed Second Reading as amended in HD 1 and referred to the committee(s) on FIN with none voting aye with reservations; Representative(s) Garcia, Pierick voting no (2) and Representative(s) Cochran, Sayama, Ward excused (3).",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Reported from AGR (Stand. Com. Rep. No. 434) as amended in HD 1, recommending passage on Second Reading and referral to FIN.",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "The committee on AGR recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 5 Ayes: Representative(s) Kahaloa, Kusch, Lowen, Perruso, Quinlan; Ayes with reservations: none;  Noes: none; and 1 Excused: Representative(s) Ward.",
+      "date": "2025-02-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Bill scheduled to be heard by AGR on Friday, 02-07-25 9:30AM in House conference room 325 VIA VIDEOCONFERENCE.",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Referred to AGR, FIN, referral sheet 4",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Agriculture & Food Systems",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    },
+    {
+      "description": "Introduced and Pass First Reading.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "QUINLAN",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"QUINLAN\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB1450_SD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1450_SD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1450_SD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB1450_HD2",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1450_HD2_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1450_HD2_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB1450_HD1",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1450_HD1_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1450_HD1_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB1450",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1450_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB1450_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1450&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "AEN, WAM"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:54Z"
+  }
+}

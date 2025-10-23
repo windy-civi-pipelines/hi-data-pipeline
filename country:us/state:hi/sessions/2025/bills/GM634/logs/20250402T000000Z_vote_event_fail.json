@@ -1,0 +1,44 @@
+{
+  "identifier": "",
+  "motion_text": "Confirmed.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-02",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"GM634\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "GM634",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Senator(s",
+      "voter_id": "~{\"name\": \"Senator(s\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 23
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=634&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "0#GM634#2025-04-02#Confirmed. Ayes, 23. Aye(s) with reservations: none.  Noes, 0 (none). Excused, 2 (Senator(s) DeCorte, Ihara)."
+}

@@ -1,0 +1,33 @@
+{
+  "action": {
+    "description": "Referred to EIG/EDU/HRE, JDC.",
+    "date": "2025-01-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Energy and Intergovernmental Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Education",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Higher Education",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB85"
+}

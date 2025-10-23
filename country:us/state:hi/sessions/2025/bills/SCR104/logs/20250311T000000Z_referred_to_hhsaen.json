@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Referred to HHS/AEN.",
+    "date": "2025-03-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Health and Human Services",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Agriculture and Environment",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SCR104"
+}

@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "The Conference Committee recommends that the measure be Passed, with Amendments.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-24",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB1296\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB1296",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Belatti",
+      "voter_id": "~{\"name\": \"Belatti\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lamosao",
+      "voter_id": "~{\"name\": \"Lamosao\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morikawa",
+      "voter_id": "~{\"name\": \"Morikawa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Souza",
+      "voter_id": "~{\"name\": \"Souza\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Iwamoto",
+      "voter_id": "~{\"name\": \"Iwamoto\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1296&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "14#HB1296#2025-04-24#The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 4 Ayes: Representative(s) Belatti, Lamosao, Morikawa, Souza; Ayes with reservations: none; 0 Noes: none; and 1 Excused: Representative(s) Iwamoto."
+}

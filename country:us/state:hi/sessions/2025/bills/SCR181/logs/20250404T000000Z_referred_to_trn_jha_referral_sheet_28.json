@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Referred to TRN, JHA, referral sheet 28",
+    "date": "2025-04-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Transportation",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Judiciary & Hawaiian Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SCR181"
+}

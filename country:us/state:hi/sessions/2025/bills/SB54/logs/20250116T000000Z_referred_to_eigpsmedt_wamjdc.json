@@ -1,0 +1,38 @@
+{
+  "action": {
+    "description": "Referred to EIG/PSM/EDT, WAM/JDC.",
+    "date": "2025-01-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Energy and Intergovernmental Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Public Safety and Military Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Economic Development and Tourism",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB54"
+}

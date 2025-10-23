@@ -1,0 +1,44 @@
+{
+  "identifier": "",
+  "motion_text": "Report Adopted; Passed Third Reading.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-28",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB448\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB448",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Senator(s",
+      "voter_id": "~{\"name\": \"Senator(s\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 23
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=448&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "7#SB448#2025-02-28#Report Adopted; Passed Third Reading. Ayes, 23; Aye(s) with reservations: none.  Noes, 0 (none).  Excused, 2 (Senator(s) Fukunaga, Kidani).  Transmitted to House."
+}

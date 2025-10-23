@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "The recommendation of the committee(s) on PSM is to ADVISE AND CONSENT to the nomination(s).",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-05",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"GM621\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "GM621",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Elefante",
+      "voter_id": "~{\"name\": \"Elefante\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fukunaga",
+      "voter_id": "~{\"name\": \"Fukunaga\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rhoads",
+      "voter_id": "~{\"name\": \"Rhoads\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wakai",
+      "voter_id": "~{\"name\": \"Wakai\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "DeCorte",
+      "voter_id": "~{\"name\": \"DeCorte\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=621&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "1#GM621#2025-03-05#The recommendation of the committee(s) on PSM is to ADVISE AND CONSENT to the nomination(s).  The votes in PSM were as follows: 4 Aye(s): Senator(s) Elefante, Fukunaga, Rhoads; Aye(s) with reservations: Senator(s) Wakai ; 1 No(es): Senator(s) DeCorte; and 0 Excused: none."
+}

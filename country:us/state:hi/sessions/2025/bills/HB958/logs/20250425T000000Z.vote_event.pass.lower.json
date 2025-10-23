@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "The Conference Committee recommends that the measure be Passed, with Amendments.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB958\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB958",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Kila",
+      "voter_id": "~{\"name\": \"Kila\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tarnas",
+      "voter_id": "~{\"name\": \"Tarnas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grandinetti",
+      "voter_id": "~{\"name\": \"Grandinetti\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Muraoka",
+      "voter_id": "~{\"name\": \"Muraoka\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Lamosao",
+      "voter_id": "~{\"name\": \"Lamosao\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=958&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "13#HB958#2025-04-25#The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 4 Ayes: Representative(s) Kila, Tarnas, Grandinetti, Muraoka; Ayes with reservations: none; 0 Noes: none; and 1 Excused: Representative(s) Lamosao."
+}

@@ -1,0 +1,37 @@
+{
+  "identifier": "",
+  "motion_text": "Passed Third Reading.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-31",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB137\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB137",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 15
+    },
+    {
+      "option": "no",
+      "value": 10
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=137&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "4#HB137#2025-03-31#Passed Third Reading. Ayes, 15; Aye(s) with reservations: none.  Noes, 10 (Senator(s) Awa, DeCoite, DeCorte, Fevella, Gabbard, Ihara, Kidani, McKelvey, Richards, San Buenaventura).  Excused, 0 (none).  Transmitted to House."
+}

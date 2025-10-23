@@ -1,0 +1,92 @@
+{
+  "identifier": "",
+  "motion_text": "Resolution adopted in final form.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-25",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SCR121\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SCR121",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Gabbard",
+      "voter_id": "~{\"name\": \"Gabbard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim",
+      "voter_id": "~{\"name\": \"Kim\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Awa",
+      "voter_id": "~{\"name\": \"Awa\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "DeCorte",
+      "voter_id": "~{\"name\": \"DeCorte\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Fevella",
+      "voter_id": "~{\"name\": \"Fevella\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ihara",
+      "voter_id": "~{\"name\": \"Ihara\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Inouye",
+      "voter_id": "~{\"name\": \"Inouye\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Moriwaki",
+      "voter_id": "~{\"name\": \"Moriwaki\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Chang",
+      "voter_id": "~{\"name\": \"Chang\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 18
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=121&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "1#SCR121#2025-04-25#Resolution adopted in final form. 18 Aye(s); Aye(s) with reservations: Senator(s) Gabbard, Kim . 6 No(es): Senator(s) Awa, DeCorte, Fevella, Ihara, Inouye, Moriwaki. 1 Excused: Senator(s) Chang."
+}

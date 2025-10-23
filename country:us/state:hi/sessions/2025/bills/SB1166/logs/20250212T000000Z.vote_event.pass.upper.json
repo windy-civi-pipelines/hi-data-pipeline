@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "The committee(s) on  CPN recommend(s) that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB1166\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB1166",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Keohokalole",
+      "voter_id": "~{\"name\": \"Keohokalole\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fukunaga",
+      "voter_id": "~{\"name\": \"Fukunaga\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Richards",
+      "voter_id": "~{\"name\": \"Richards\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Awa",
+      "voter_id": "~{\"name\": \"Awa\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "McKelvey",
+      "voter_id": "~{\"name\": \"McKelvey\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1166&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "11#SB1166#2025-02-12#The committee(s) on  CPN recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in CPN were as follows: 3 Aye(s): Senator(s) Keohokalole, Fukunaga, Richards; Aye(s) with reservations: none ; 1 No(es): Senator(s) Awa; and 1 Excused: Senator(s) McKelvey."
+}

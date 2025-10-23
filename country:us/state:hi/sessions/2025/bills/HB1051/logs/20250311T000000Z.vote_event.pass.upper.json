@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "The committee(s) on EIG recommend(s) that the measure be PASSED, UNAMENDED.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB1051\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB1051",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Wakai",
+      "voter_id": "~{\"name\": \"Wakai\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chang",
+      "voter_id": "~{\"name\": \"Chang\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Richards",
+      "voter_id": "~{\"name\": \"Richards\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "DeCoite",
+      "voter_id": "~{\"name\": \"DeCoite\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Fevella",
+      "voter_id": "~{\"name\": \"Fevella\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1051&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "29#HB1051#2025-03-11#The committee(s) on EIG recommend(s) that the measure be PASSED, UNAMENDED.  The votes in EIG were as follows: 3 Aye(s): Senator(s) Wakai, Chang, Richards; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) DeCoite, Fevella."
+}

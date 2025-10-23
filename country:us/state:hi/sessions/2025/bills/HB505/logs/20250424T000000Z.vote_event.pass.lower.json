@@ -1,0 +1,62 @@
+{
+  "identifier": "",
+  "motion_text": "The Conference Committee recommends that the measure be Passed, with Amendments.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-24",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB505\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB505",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Hashem",
+      "voter_id": "~{\"name\": \"Hashem\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lamosao",
+      "voter_id": "~{\"name\": \"Lamosao\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shimizu",
+      "voter_id": "~{\"name\": \"Shimizu\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Lowen",
+      "voter_id": "~{\"name\": \"Lowen\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=505&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "11#HB505#2025-04-24#The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 3 Ayes: Representative(s) Hashem, Lamosao, Shimizu; Ayes with reservations: none; 0 Noes: none; and 1 Excused: Representative(s) Lowen."
+}

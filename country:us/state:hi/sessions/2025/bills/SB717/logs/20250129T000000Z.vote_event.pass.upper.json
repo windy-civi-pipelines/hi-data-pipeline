@@ -1,0 +1,74 @@
+{
+  "identifier": "",
+  "motion_text": "The committee(s) on  LBT recommend(s) that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-01-29",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB717\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB717",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Aquino",
+      "voter_id": "~{\"name\": \"Aquino\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lee",
+      "voter_id": "~{\"name\": \"Lee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "C",
+      "voter_id": "~{\"name\": \"C\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fevella",
+      "voter_id": "~{\"name\": \"Fevella\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Ihara",
+      "voter_id": "~{\"name\": \"Ihara\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Moriwaki",
+      "voter_id": "~{\"name\": \"Moriwaki\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=717&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "34#SB717#2025-01-29#The committee(s) on  LBT recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in LBT were as follows: 3 Aye(s): Senator(s) Aquino, Lee, C., Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) Ihara, Moriwaki."
+}

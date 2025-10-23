@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Referred to AGR/EEP, CPC, referral sheet 18",
+    "date": "2025-03-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Agriculture & Food Systems",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Energy & Environmental Protection",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Consumer Protection & Commerce",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB443"
+}

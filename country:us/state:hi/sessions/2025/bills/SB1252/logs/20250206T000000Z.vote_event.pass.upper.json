@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "The committee(s) on  HRE recommend(s) that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-06",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB1252\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB1252",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Kim",
+      "voter_id": "~{\"name\": \"Kim\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kidani",
+      "voter_id": "~{\"name\": \"Kidani\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fukunaga",
+      "voter_id": "~{\"name\": \"Fukunaga\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hashimoto",
+      "voter_id": "~{\"name\": \"Hashimoto\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fevella",
+      "voter_id": "~{\"name\": \"Fevella\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1252&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "46#SB1252#2025-02-06#The committee(s) on  HRE recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in HRE were as follows: 5 Aye(s): Senator(s) Kim, Kidani, Fukunaga, Hashimoto, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none."
+}

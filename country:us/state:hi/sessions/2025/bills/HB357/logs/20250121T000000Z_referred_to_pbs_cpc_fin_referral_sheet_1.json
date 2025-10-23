@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Referred to PBS, CPC, FIN, referral sheet 1",
+    "date": "2025-01-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Public Safety",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Consumer Protection & Commerce",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Finance",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB357"
+}

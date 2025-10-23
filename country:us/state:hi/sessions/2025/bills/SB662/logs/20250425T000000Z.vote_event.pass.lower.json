@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "The Conference Committee recommends that the measure be Passed, with Amendments.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB662\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB662",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Evslin",
+      "voter_id": "~{\"name\": \"Evslin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Todd",
+      "voter_id": "~{\"name\": \"Todd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Miyake",
+      "voter_id": "~{\"name\": \"Miyake\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Kila",
+      "voter_id": "~{\"name\": \"Kila\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Muraoka",
+      "voter_id": "~{\"name\": \"Muraoka\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=662&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "11#SB662#2025-04-25#The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 3 Ayes: Representative(s) Evslin, Todd, Miyake; Ayes with reservations: none; 0 Noes: none; and 2 Excused: Representative(s) Kila, Muraoka."
+}

@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "The committee(s) on  EDT recommend(s) that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-04",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB1569\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB1569",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "DeCoite",
+      "voter_id": "~{\"name\": \"DeCoite\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim",
+      "voter_id": "~{\"name\": \"Kim\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Awa",
+      "voter_id": "~{\"name\": \"Awa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wakai",
+      "voter_id": "~{\"name\": \"Wakai\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fukunaga",
+      "voter_id": "~{\"name\": \"Fukunaga\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1569&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "5#SB1569#2025-02-04#The committee(s) on  EDT recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in EDT were as follows: 5 Aye(s): Senator(s) DeCoite, Kim, Awa; Aye(s) with reservations: Senator(s) Wakai, Fukunaga ; 0 No(es): none; and 0 Excused: none."
+}

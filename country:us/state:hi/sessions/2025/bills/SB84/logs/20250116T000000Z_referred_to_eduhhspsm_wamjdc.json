@@ -1,0 +1,38 @@
+{
+  "action": {
+    "description": "Referred to EDU/HHS/PSM, WAM/JDC.",
+    "date": "2025-01-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Education",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Health and Human Services",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Public Safety and Military Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB84"
+}

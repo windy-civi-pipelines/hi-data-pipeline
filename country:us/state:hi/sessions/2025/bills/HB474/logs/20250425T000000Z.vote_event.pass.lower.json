@@ -1,0 +1,74 @@
+{
+  "identifier": "",
+  "motion_text": "The Conference Committee recommends that the measure be Passed, with Amendments.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB474\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB474",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Takayama",
+      "voter_id": "~{\"name\": \"Takayama\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Keohokapu-Lee Loy",
+      "voter_id": "~{\"name\": \"Keohokapu-Lee Loy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chun",
+      "voter_id": "~{\"name\": \"Chun\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lee",
+      "voter_id": "~{\"name\": \"Lee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "M",
+      "voter_id": "~{\"name\": \"M\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Alcos",
+      "voter_id": "~{\"name\": \"Alcos\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=474&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "11#HB474#2025-04-25#The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 4 Ayes: Representative(s) Takayama, Keohokapu-Lee Loy, Chun, Lee, M.; Ayes with reservations: none; 0 Noes: none; and 1 Excused: Representative(s) Alcos."
+}

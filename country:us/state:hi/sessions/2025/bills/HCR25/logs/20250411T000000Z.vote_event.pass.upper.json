@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "The committee(s) on  AEN recommend(s) that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HCR25\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HCR25",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Gabbard",
+      "voter_id": "~{\"name\": \"Gabbard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Richards",
+      "voter_id": "~{\"name\": \"Richards\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rhoads",
+      "voter_id": "~{\"name\": \"Rhoads\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "DeCoite",
+      "voter_id": "~{\"name\": \"DeCoite\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Awa",
+      "voter_id": "~{\"name\": \"Awa\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HCR&billnumber=25&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "9#HCR25#2025-04-11#The committee(s) on  AEN recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in AEN were as follows: 3 Aye(s): Senator(s) Gabbard, Richards, Rhoads; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) DeCoite, Awa."
+}

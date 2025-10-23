@@ -1,0 +1,127 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB256",
+  "title": "RELATING TO PARTIAL PUBLIC FINANCING OF ELECTIONS.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations ($)",
+    "Campaign Spending Commission Package",
+    "Expenditure Ceiling",
+    "Maximum Amount of Public Funds Available",
+    "Minimum Qualifying Contribution Amounts",
+    "OHA",
+    "Partial Public Financing"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Increases the amount of partial public campaign financing available for all state and county elective offices.  Amends section 11-425, Hawaii Revised Statutes (HRS), by increasing the maximum amount of public funds available for each election for candidates (1) for Mayor of the County of Kauai and the County of Maui by 125%; (2) for the Office of Hawaiian Affairs from $1,500 to 10% of the expenditure limit established in section 11-423(d), HRS; and (3) for candidates for all other offices by 50%.  Amends section 11-429(a), HRS, by increasing the amounts of qualifying contributions for the Office of Hawaiian Affairs from more than $1,500 in the aggregate to more than $5,000 in the aggregate.  Provides a downward adjustment of the amounts of qualifying contributions for the Office of Prosecuting Attorney for the City and County of Honolulu, County of Hawaii, and County of Kauai and for the Office of County Council for the County of Maui.  Provides for an unspecified appropriation to pay for the increase in the partial public financing program.  Provides for an appropriation in the amount of $200,000 for the Commission to hire 2 additional staff members."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to JDC, WAM.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Introduced and passed First Reading.",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Pending Introduction.",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "KOUCHI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"KOUCHI\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HB 370",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "SB256",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB256_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB256_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=256&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "JDC, WAM"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:52Z"
+  }
+}

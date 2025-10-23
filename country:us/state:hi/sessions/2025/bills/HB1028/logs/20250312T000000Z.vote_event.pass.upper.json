@@ -1,0 +1,74 @@
+{
+  "identifier": "",
+  "motion_text": "The committee(s) on  LBT recommend(s) that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB1028\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB1028",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Aquino",
+      "voter_id": "~{\"name\": \"Aquino\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lee",
+      "voter_id": "~{\"name\": \"Lee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "C",
+      "voter_id": "~{\"name\": \"C\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ihara",
+      "voter_id": "~{\"name\": \"Ihara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fevella",
+      "voter_id": "~{\"name\": \"Fevella\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Moriwaki",
+      "voter_id": "~{\"name\": \"Moriwaki\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1028&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "28#HB1028#2025-03-12#The committee(s) on  LBT recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in LBT were as follows: 4 Aye(s): Senator(s) Aquino, Lee, C., Ihara, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Moriwaki."
+}

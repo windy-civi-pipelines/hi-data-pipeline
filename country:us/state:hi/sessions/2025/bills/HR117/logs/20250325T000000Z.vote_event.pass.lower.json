@@ -1,0 +1,92 @@
+{
+  "identifier": "",
+  "motion_text": "The committee on TRN recommend that the measure be PASSED, UNAMENDED.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HR117\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HR117",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Kila",
+      "voter_id": "~{\"name\": \"Kila\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grandinetti",
+      "voter_id": "~{\"name\": \"Grandinetti\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kitagawa",
+      "voter_id": "~{\"name\": \"Kitagawa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Miyake",
+      "voter_id": "~{\"name\": \"Miyake\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Muraoka",
+      "voter_id": "~{\"name\": \"Muraoka\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Cochran",
+      "voter_id": "~{\"name\": \"Cochran\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Evslin",
+      "voter_id": "~{\"name\": \"Evslin\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "La Chica",
+      "voter_id": "~{\"name\": \"La Chica\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Pierick",
+      "voter_id": "~{\"name\": \"Pierick\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 4
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HR&billnumber=117&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "8#HR117#2025-03-25#The committee on TRN recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 5 Ayes: Representative(s) Kila, Grandinetti, Kitagawa, Miyake, Muraoka; Ayes with reservations: none;  Noes: none; and 4 Excused: Representative(s) Cochran, Evslin, La Chica, Pierick."
+}

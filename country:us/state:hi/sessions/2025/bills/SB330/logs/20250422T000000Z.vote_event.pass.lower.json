@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "The Conference Committee recommends that the measure be Passed, with Amendments.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-22",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB330\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB330",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Kahaloa",
+      "voter_id": "~{\"name\": \"Kahaloa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ilagan",
+      "voter_id": "~{\"name\": \"Ilagan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Poepoe",
+      "voter_id": "~{\"name\": \"Poepoe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Todd",
+      "voter_id": "~{\"name\": \"Todd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matsumoto",
+      "voter_id": "~{\"name\": \"Matsumoto\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=330&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "11#SB330#2025-04-22#The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 5 Ayes: Representative(s) Kahaloa, Ilagan, Poepoe, Todd, Matsumoto; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none."
+}

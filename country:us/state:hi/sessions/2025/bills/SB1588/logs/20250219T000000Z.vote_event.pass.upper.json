@@ -1,0 +1,74 @@
+{
+  "identifier": "",
+  "motion_text": "Report Adopted; Passed Third Reading, as amended (SD 1).",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-19",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB1588\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB1588",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Fukunaga",
+      "voter_id": "~{\"name\": \"Fukunaga\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ihara",
+      "voter_id": "~{\"name\": \"Ihara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim",
+      "voter_id": "~{\"name\": \"Kim\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McKelvey",
+      "voter_id": "~{\"name\": \"McKelvey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "San Buenaventura",
+      "voter_id": "~{\"name\": \"San Buenaventura\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Senator(s",
+      "voter_id": "~{\"name\": \"Senator(s\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 20
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "not voting",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1588&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "7#SB1588#2025-02-19#Report Adopted; Passed Third Reading, as amended (SD 1).  Ayes, 20; Aye(s) with reservations: Senator(s) Fukunaga, Ihara, Kim, McKelvey, San Buenaventura.  Noes, 2 (Senator(s) Awa, Inouye).  Excused, 3 (Senator(s) Gabbard, Kouchi, Richards).  Transmitted to House."
+}

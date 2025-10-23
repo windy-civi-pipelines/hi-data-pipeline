@@ -1,0 +1,56 @@
+{
+  "identifier": "",
+  "motion_text": "Reconsider: The House Conference Managers recommend to agree to the Senate Amendments.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-23",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB622\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB622",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Woodson",
+      "voter_id": "~{\"name\": \"Woodson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "La Chica",
+      "voter_id": "~{\"name\": \"La Chica\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Souza",
+      "voter_id": "~{\"name\": \"Souza\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=622&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "8#HB622#2025-04-23#The House Conference Managers recommend to agree to the Senate Amendments.  The votes were as follows: 3 Ayes: Representative(s) Woodson, La Chica, Souza; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none."
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to JHA, referral sheet 1",
+    "date": "2025-01-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Judiciary & Hawaiian Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB176"
+}

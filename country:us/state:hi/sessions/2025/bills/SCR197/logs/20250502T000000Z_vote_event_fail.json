@@ -1,0 +1,50 @@
+{
+  "identifier": "",
+  "motion_text": "Resolution adopted in final form.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-02",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SCR197\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SCR197",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Awa",
+      "voter_id": "~{\"name\": \"Awa\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "DeCorte",
+      "voter_id": "~{\"name\": \"DeCorte\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 23
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=197&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "1#SCR197#2025-05-02#Resolution adopted in final form. 23 Aye(s); Aye(s) with reservations: none . 2 No(es): Senator(s) Awa, DeCorte. 0 Excused: none."
+}

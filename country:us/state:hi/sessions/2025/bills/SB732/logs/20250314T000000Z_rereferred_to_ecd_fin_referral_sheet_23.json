@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Re-referred to ECD, FIN, referral sheet 23",
+    "date": "2025-03-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Economic Development & Technology",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Finance",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB732"
+}

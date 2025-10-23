@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "Reconsider: The committee on CAA recommend that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SCR12\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SCR12",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Kapela",
+      "voter_id": "~{\"name\": \"Kapela\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kong",
+      "voter_id": "~{\"name\": \"Kong\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Garrett",
+      "voter_id": "~{\"name\": \"Garrett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sayama",
+      "voter_id": "~{\"name\": \"Sayama\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reyes Oda",
+      "voter_id": "~{\"name\": \"Reyes Oda\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Lee",
+      "voter_id": "~{\"name\": \"Lee\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "M.",
+      "voter_id": "~{\"name\": \"M.\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=12&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "12#SCR12#2025-04-11#The committee on CAA recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 5 Ayes: Representative(s) Kapela, Kong, Garrett, Sayama, Reyes Oda; Ayes with reservations: none;  Noes: none; and 1 Excused: Representative(s) Lee, M.."
+}

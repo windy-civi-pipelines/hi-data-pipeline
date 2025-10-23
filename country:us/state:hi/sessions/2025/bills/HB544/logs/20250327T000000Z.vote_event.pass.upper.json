@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "The committee(s) on JDC recommend(s) that the measure be PASSED, UNAMENDED.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-27",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB544\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB544",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Rhoads",
+      "voter_id": "~{\"name\": \"Rhoads\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gabbard",
+      "voter_id": "~{\"name\": \"Gabbard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chang",
+      "voter_id": "~{\"name\": \"Chang\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Awa",
+      "voter_id": "~{\"name\": \"Awa\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "San Buenaventura",
+      "voter_id": "~{\"name\": \"San Buenaventura\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=544&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "26#HB544#2025-03-27#The committee(s) on JDC recommend(s) that the measure be PASSED, UNAMENDED.  The votes in JDC were as follows: 4 Aye(s): Senator(s) Rhoads, Gabbard, Chang, Awa; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) San Buenaventura."
+}

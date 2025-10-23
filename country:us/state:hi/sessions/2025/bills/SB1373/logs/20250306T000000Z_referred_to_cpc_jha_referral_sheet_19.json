@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Referred to CPC, JHA, referral sheet 19",
+    "date": "2025-03-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Consumer Protection & Commerce",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Judiciary & Hawaiian Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB1373"
+}

@@ -1,0 +1,19 @@
+{
+  "action": {
+    "description": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to WAM.",
+    "date": "2025-03-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB705"
+}

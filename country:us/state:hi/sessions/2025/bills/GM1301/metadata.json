@@ -1,0 +1,71 @@
+{
+  "legislative_session": "2025",
+  "identifier": "GM1301",
+  "title": "Informing the Legislature that on June 6, 2025, the Governor transmitted proclamations giving notice of his plan to return the following bills with objections: HB126 HD1 SD2 CD1, HB235 HD1 SD1 CD1, HB300 HD1 SD1 CD1, HB302 HD2 SD2 CD1, HB496 HD2 SD1 CD1, HB796 HD1 SD1 CD1, HB800 HD1 SD2 CD1, HB958 HD2 SD2 CD1, HB1296 HD1 SD1 CD1, HB1369 HD1 SD1 CD1, SB15 SD1 HD2 CD1, SB31 SD2 HD2 CD1, SB38 SD2 HD2 CD1, SB66 SD2 HD3 CD1, SB104 SD2 HD3 CD1, SB447 HD1 CD1, SB583 SD2 HD1 CD1, SB589 SD1 HD3 CD1, SB1102 SD2 HD2 CD1",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "proclamation"
+  ],
+  "subject": [
+    "Intention to veto bills"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Received.",
+      "date": "2025-06-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "governor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"governor\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "GM1301",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/GM1301_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=1301&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:56Z"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "identifier": "",
+  "motion_text": "The committee(s) on  WAM recommend(s) that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB1117\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB1117",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Dela Cruz",
+      "voter_id": "~{\"name\": \"Dela Cruz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moriwaki",
+      "voter_id": "~{\"name\": \"Moriwaki\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Aquino",
+      "voter_id": "~{\"name\": \"Aquino\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DeCoite",
+      "voter_id": "~{\"name\": \"DeCoite\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elefante",
+      "voter_id": "~{\"name\": \"Elefante\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hashimoto",
+      "voter_id": "~{\"name\": \"Hashimoto\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Inouye",
+      "voter_id": "~{\"name\": \"Inouye\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kanuha",
+      "voter_id": "~{\"name\": \"Kanuha\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kidani",
+      "voter_id": "~{\"name\": \"Kidani\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim",
+      "voter_id": "~{\"name\": \"Kim\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lee",
+      "voter_id": "~{\"name\": \"Lee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "C",
+      "voter_id": "~{\"name\": \"C\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wakai",
+      "voter_id": "~{\"name\": \"Wakai\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fevella",
+      "voter_id": "~{\"name\": \"Fevella\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 13
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1117&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "38#SB1117#2025-02-12#The committee(s) on  WAM recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in WAM were as follows: 13 Aye(s): Senator(s) Dela Cruz, Moriwaki, Aquino, DeCoite, Elefante, Hashimoto, Inouye, Kanuha, Kidani, Kim, Lee, C., Wakai, Fevella; Aye(s) with reservations: none ; 0 No(es): none"
+}

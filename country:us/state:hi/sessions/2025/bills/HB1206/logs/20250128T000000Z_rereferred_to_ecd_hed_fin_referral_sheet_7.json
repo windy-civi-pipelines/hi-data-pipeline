@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Re-referred to ECD, HED, FIN, referral sheet 7",
+    "date": "2025-01-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Economic Development & Technology",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Higher Education",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Finance",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB1206"
+}

@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Referred to PBS/WAL, referral sheet 28",
+    "date": "2025-04-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Public Safety",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Water & Land",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SCR149"
+}

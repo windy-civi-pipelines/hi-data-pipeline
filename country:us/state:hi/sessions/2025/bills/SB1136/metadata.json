@@ -1,0 +1,196 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB1136",
+  "title": "RELATING TO INSURANCE.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Additional Living Expenses Coverage",
+    "Catastrophe Modeling",
+    "Homeowners Insurance",
+    "Insurance",
+    "Over\u00adInsurance",
+    "Past Loss Experience",
+    "Policies",
+    "Ratemaking",
+    "Regulations",
+    "Replacement Cost Value",
+    "State of Emergency",
+    "Wildfire Risk"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Establishes ratemaking regulations for insurers who base their rates on a policyholder or applicant's wildfire risk.  Amends the definition of \"prospective loss costs\" to incorporate catastrophe modeling instead of historical aggregate losses.  Prohibits insurers from basing certain insurance rates on past loss experience within or outside the State.  Requires insurers to provide a list of items that may be covered under a homeowners insurance policy issued or renewed on or after 1/1/2026, as additional living expenses when a claim for additional living expenses is made.  If a loss relating to a state of emergency occurs, requires coverage for additional living expenses for a period of not less than 24 months from the loss, subject to other policy provisions.  Requires that coverage for additional living expenses not limit a policyholder's right to recovery if the insured home is made uninhabitable by a covered peril and allows an insurer to provide a reasonable alternative remedy that addresses the property condition that precludes reasonable habitation of the insured premises.  Requires additional living expenses coverage for at least 2 weeks for certain losses incurred if a state of emergency is accompanied by an order of civil authority restricting access to the home.  Beginning on 1/1/2026, requires each newly issued or renewed homeowners insurance policy that covers a property within the State to provide for the replacement cost value of the insured property.  Amends the determination of over insurance under section 431:l0E-102, HRS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "The committee on PSM deferred the measure.",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "The committee on CPN deferred the measure.",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "The committee(s) on CPN/PSM has scheduled a public hearing on 02-05-25 9:30AM; Conference Room 229 & Videoconference.",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Referred to CPN/PSM, WAM/JDC.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Commerce and Consumer Protection",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Public Safety and Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Passed First Reading.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    },
+    {
+      "description": "Introduced.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "MCKELVEY",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MCKELVEY\"}",
+      "organization_id": null
+    },
+    {
+      "name": "CHANG",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"CHANG\"}",
+      "organization_id": null
+    },
+    {
+      "name": "FEVELLA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"FEVELLA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "HASHIMOTO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"HASHIMOTO\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB1136",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1136_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1136_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1136&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "CPN/PSM, WAM/JDC"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:52Z"
+  }
+}

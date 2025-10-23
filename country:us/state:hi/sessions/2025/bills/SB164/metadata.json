@@ -1,0 +1,162 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB164",
+  "title": "RELATING TO HOUSING.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Affordable Housing",
+    "Allocations",
+    "Conveyance Tax",
+    "DURF",
+    "Eligibility",
+    "Eligible Applicants",
+    "Fund Allocation",
+    "Government Agencies",
+    "Grants",
+    "HHFDC",
+    "Housing Efficiency and Innovation Subaccount",
+    "Organizations",
+    "Preference",
+    "Priorities",
+    "Profits",
+    "Qualified Allocation",
+    "RHRF",
+    "Repeal",
+    "Report",
+    "SHRF",
+    "Terms",
+    "Working Group"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Repeals statutory requirements for certain housing projects to be eligible for loans from the Rental Housing Revolving Fund.  Repeals certain statutory provisions for grants to developers for rental units eligible to be financed in part or in whole by the RHRF.  Repeals statutory language requiring the Hawaii Housing Finance and Development Corporation to establish an application process for RHRF allocation that prioritized projects meeting certain requirements.  Renames the Rental Housing Revolving Fund to the State Housing Revolving Fund (SHRF).  Clarifies eligible applicants of the SHRF.  Authorizes the HHFDC to use funds from the SHRF for broader housing projects.  Establishes the Housing Efficiency and Innovation Subaccount within the SHRF.  Authorizes the HHFDC to transfer funds between the Housing Efficiency and Innovation Subaccount and the RHRF without legislative approval.  Amends the criteria and eligibility requirements for applicant developers seeking assistance from the SHRF.  Requires the HHDFC to maximize the amount of housing built that utilizes loans from the SHRF by prioritizing projects with the shortest projected loan repayment terms that produce the highest number of units, per dollar, per year.  Repeals all other priorities and preferences for projects utilizing the RHRF.  Establishes a working group to revise the State's Qualified Allocation Plan, the prioritization of the SHRF, and the terms of loans.  Requires a report to the Legislature.  Allocates ten per cent of conveyance tax collections to the DURF.  Removes the annual cap on conveyance taxes paid into the SHRF."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to HOU/WTL, WAM/JDC.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Water and Land",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Introduced and passed First Reading.",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    },
+    {
+      "description": "Pending Introduction.",
+      "date": "2025-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:12:55Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "CHANG",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"CHANG\"}",
+      "organization_id": null
+    },
+    {
+      "name": "AQUINO",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"AQUINO\"}",
+      "organization_id": null
+    },
+    {
+      "name": "FEVELLA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"FEVELLA\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB164",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB164_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB164_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=164&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "HOU/WTL, WAM/JDC"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:12:55Z"
+  }
+}

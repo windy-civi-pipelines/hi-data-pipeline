@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Referred to LBT, WAM.",
+    "date": "2025-01-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Labor and Technology",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB487"
+}

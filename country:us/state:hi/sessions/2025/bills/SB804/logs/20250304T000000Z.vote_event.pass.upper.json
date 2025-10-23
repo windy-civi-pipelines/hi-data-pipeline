@@ -1,0 +1,37 @@
+{
+  "identifier": "",
+  "motion_text": "Report adopted; Passed Third Reading, as amended (SD  2).",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-04",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB804\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB804",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 25
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=804&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "3#SB804#2025-03-04#Report adopted; Passed Third Reading, as amended (SD  2). Ayes, 25; Aye(s) with reservations: none .  Noes, 0 (none). Excused, 0 (none).  Transmitted to House."
+}

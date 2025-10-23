@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "The committee on CAA recommend that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB614\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB614",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Kapela",
+      "voter_id": "~{\"name\": \"Kapela\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kong",
+      "voter_id": "~{\"name\": \"Kong\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Garrett",
+      "voter_id": "~{\"name\": \"Garrett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lee",
+      "voter_id": "~{\"name\": \"Lee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "M",
+      "voter_id": "~{\"name\": \"M\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Sayama",
+      "voter_id": "~{\"name\": \"Sayama\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Reyes Oda",
+      "voter_id": "~{\"name\": \"Reyes Oda\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=614&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "2#SB614#2025-03-12#The committee on CAA recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 4 Ayes: Representative(s) Kapela, Kong, Garrett, Lee, M.; Ayes with reservations: none;  Noes: none; and 2 Excused: Representative(s) Sayama, Reyes Oda."
+}

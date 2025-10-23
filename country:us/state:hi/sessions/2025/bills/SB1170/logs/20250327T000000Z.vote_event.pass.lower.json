@@ -1,0 +1,104 @@
+{
+  "identifier": "",
+  "motion_text": "The committee on JHA recommend that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-27",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB1170\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB1170",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Tarnas",
+      "voter_id": "~{\"name\": \"Tarnas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Poepoe",
+      "voter_id": "~{\"name\": \"Poepoe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Belatti",
+      "voter_id": "~{\"name\": \"Belatti\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hashem",
+      "voter_id": "~{\"name\": \"Hashem\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kahaloa",
+      "voter_id": "~{\"name\": \"Kahaloa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Perruso",
+      "voter_id": "~{\"name\": \"Perruso\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Takayama",
+      "voter_id": "~{\"name\": \"Takayama\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Todd",
+      "voter_id": "~{\"name\": \"Todd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Garcia",
+      "voter_id": "~{\"name\": \"Garcia\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shimizu",
+      "voter_id": "~{\"name\": \"Shimizu\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Cochran",
+      "voter_id": "~{\"name\": \"Cochran\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1170&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "24#SB1170#2025-03-27#The committee on JHA recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 10 Ayes: Representative(s) Tarnas, Poepoe, Belatti, Hashem, Kahaloa, Perruso, Takayama, Todd, Garcia, Shimizu; Ayes with reservations: none; 0 Noes: none; and 1 Excused: Representative(s) Cochran."
+}

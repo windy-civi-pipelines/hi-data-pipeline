@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Referred to HSH, FIN, referral sheet 3",
+    "date": "2025-01-23",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Human Services & Homelessness",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Finance",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB1080"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Re-referred to PBS, referral sheet 32",
+    "date": "2025-04-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Public Safety",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SCR20"
+}

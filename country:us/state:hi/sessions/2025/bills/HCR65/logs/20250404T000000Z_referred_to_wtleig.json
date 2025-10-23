@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Referred to WTL/EIG.",
+    "date": "2025-04-04",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Water and Land",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Energy and Intergovernmental Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HCR65"
+}

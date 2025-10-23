@@ -1,0 +1,33 @@
+{
+  "action": {
+    "description": "Referred to TRN, CPC/JHA, FIN, referral sheet 18",
+    "date": "2025-03-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Transportation",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Consumer Protection & Commerce",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Judiciary & Hawaiian Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Finance",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB1117"
+}

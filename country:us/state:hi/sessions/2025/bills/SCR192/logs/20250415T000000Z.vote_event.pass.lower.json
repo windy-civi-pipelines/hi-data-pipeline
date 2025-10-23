@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "The committee on AGR recommend that the measure be PASSED, UNAMENDED.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-15",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SCR192\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SCR192",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Kahaloa",
+      "voter_id": "~{\"name\": \"Kahaloa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kusch",
+      "voter_id": "~{\"name\": \"Kusch\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lowen",
+      "voter_id": "~{\"name\": \"Lowen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Perruso",
+      "voter_id": "~{\"name\": \"Perruso\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Quinlan",
+      "voter_id": "~{\"name\": \"Quinlan\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=192&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "6#SCR192#2025-04-15#The committee on AGR recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 4 Ayes: Representative(s) Kahaloa, Kusch, Lowen, Perruso; Ayes with reservations: none;  Noes: none; and 1 Excused: Representative(s) Quinlan."
+}

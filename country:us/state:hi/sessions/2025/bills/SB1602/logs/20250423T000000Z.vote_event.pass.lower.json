@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "The Conference Committee recommends that the measure be Passed, with Amendments.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-23",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB1602\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB1602",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Lowen",
+      "voter_id": "~{\"name\": \"Lowen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hashem",
+      "voter_id": "~{\"name\": \"Hashem\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Takenouchi",
+      "voter_id": "~{\"name\": \"Takenouchi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kapela",
+      "voter_id": "~{\"name\": \"Kapela\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Souza",
+      "voter_id": "~{\"name\": \"Souza\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1602&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "11#SB1602#2025-04-23#The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 5 Ayes: Representative(s) Lowen, Hashem, Takenouchi, Kapela, Souza; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none."
+}

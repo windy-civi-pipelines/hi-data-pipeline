@@ -1,0 +1,74 @@
+{
+  "identifier": "",
+  "motion_text": "The committee on AGR recommend that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB783\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB783",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Kahaloa",
+      "voter_id": "~{\"name\": \"Kahaloa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kusch",
+      "voter_id": "~{\"name\": \"Kusch\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lowen",
+      "voter_id": "~{\"name\": \"Lowen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Perruso",
+      "voter_id": "~{\"name\": \"Perruso\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Quinlan",
+      "voter_id": "~{\"name\": \"Quinlan\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Ward",
+      "voter_id": "~{\"name\": \"Ward\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=783&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "2#HB783#2025-02-12#The committee on AGR recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 5 Ayes: Representative(s) Kahaloa, Kusch, Lowen, Perruso, Quinlan; Ayes with reservations: none; 0 Noes: none; and 1 Excused: Representative(s) Ward."
+}

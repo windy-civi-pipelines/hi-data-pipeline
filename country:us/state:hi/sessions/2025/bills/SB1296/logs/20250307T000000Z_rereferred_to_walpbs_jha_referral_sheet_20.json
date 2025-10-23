@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Re-referred to WAL/PBS, JHA, referral sheet 20",
+    "date": "2025-03-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Water & Land",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Public Safety",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Judiciary & Hawaiian Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB1296"
+}

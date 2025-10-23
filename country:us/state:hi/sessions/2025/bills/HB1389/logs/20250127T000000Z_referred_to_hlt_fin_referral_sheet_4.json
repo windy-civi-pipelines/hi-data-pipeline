@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Referred to HLT, FIN, referral sheet 4",
+    "date": "2025-01-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Health",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Finance",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB1389"
+}

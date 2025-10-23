@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Referred to TRN, JHA, CPC, referral sheet 2",
+    "date": "2025-01-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Transportation",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Judiciary & Hawaiian Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Consumer Protection & Commerce",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB708"
+}

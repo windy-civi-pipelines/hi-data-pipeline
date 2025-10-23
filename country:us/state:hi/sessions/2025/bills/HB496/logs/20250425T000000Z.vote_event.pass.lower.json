@@ -1,0 +1,62 @@
+{
+  "identifier": "",
+  "motion_text": "The Conference Committee recommends that the measure be Passed, with Amendments.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB496\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB496",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Kahaloa",
+      "voter_id": "~{\"name\": \"Kahaloa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kusch",
+      "voter_id": "~{\"name\": \"Kusch\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matsumoto",
+      "voter_id": "~{\"name\": \"Matsumoto\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Matayoshi",
+      "voter_id": "~{\"name\": \"Matayoshi\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=496&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "13#HB496#2025-04-25#The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 3 Ayes: Representative(s) Kahaloa, Kusch, Matsumoto; Ayes with reservations: none; 0 Noes: none; and 1 Excused: Representative(s) Matayoshi."
+}

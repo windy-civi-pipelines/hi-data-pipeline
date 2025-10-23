@@ -1,0 +1,104 @@
+{
+  "identifier": "",
+  "motion_text": "The committee on EDN recommend that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-01",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HR169\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HR169",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "La Chica",
+      "voter_id": "~{\"name\": \"La Chica\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Evslin",
+      "voter_id": "~{\"name\": \"Evslin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Garrett",
+      "voter_id": "~{\"name\": \"Garrett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kapela",
+      "voter_id": "~{\"name\": \"Kapela\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Olds",
+      "voter_id": "~{\"name\": \"Olds\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sayama",
+      "voter_id": "~{\"name\": \"Sayama\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Souza",
+      "voter_id": "~{\"name\": \"Souza\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kila",
+      "voter_id": "~{\"name\": \"Kila\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Muraoka",
+      "voter_id": "~{\"name\": \"Muraoka\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Woodson",
+      "voter_id": "~{\"name\": \"Woodson\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Amato",
+      "voter_id": "~{\"name\": \"Amato\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HR&billnumber=169&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "3#HR169#2025-04-01#The committee on EDN recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 8 Ayes: Representative(s) La Chica, Evslin, Garrett, Kapela, Olds, Sayama, Souza; Ayes with reservations: Representative(s) Kila; 1 Noes: Representative(s) Muraoka; and 2 Excused: Representative(s)"
+}

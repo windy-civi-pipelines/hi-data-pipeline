@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Referred to LMG, CPC, referral sheet 28",
+    "date": "2025-04-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Legislative Management",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Consumer Protection & Commerce",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SCR44"
+}

@@ -1,0 +1,62 @@
+{
+  "identifier": "",
+  "motion_text": "The Conference Committee recommends that the measure be Passed, with Amendments.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-24",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB1170\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB1170",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Garrett",
+      "voter_id": "~{\"name\": \"Garrett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Holt",
+      "voter_id": "~{\"name\": \"Holt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Amato",
+      "voter_id": "~{\"name\": \"Amato\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Muraoka",
+      "voter_id": "~{\"name\": \"Muraoka\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1170&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "12#HB1170#2025-04-24#The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 4 Ayes: Representative(s) Garrett, Holt, Amato, Muraoka; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none."
+}

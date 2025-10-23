@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House disagrees with Senate amendment (s).",
+    "date": "2025-04-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB433"
+}

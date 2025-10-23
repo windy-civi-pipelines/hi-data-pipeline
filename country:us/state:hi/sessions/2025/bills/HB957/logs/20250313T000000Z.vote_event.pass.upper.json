@@ -1,0 +1,74 @@
+{
+  "identifier": "",
+  "motion_text": "The committee(s) on  TCA recommend(s) that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-13",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB957\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB957",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Lee",
+      "voter_id": "~{\"name\": \"Lee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "C",
+      "voter_id": "~{\"name\": \"C\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Inouye",
+      "voter_id": "~{\"name\": \"Inouye\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elefante",
+      "voter_id": "~{\"name\": \"Elefante\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kanuha",
+      "voter_id": "~{\"name\": \"Kanuha\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DeCorte",
+      "voter_id": "~{\"name\": \"DeCorte\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=957&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "25#HB957#2025-03-13#The committee(s) on  TCA recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in TCA were as follows: 5 Aye(s): Senator(s) Lee, C., Inouye, Elefante, Kanuha, DeCorte; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none."
+}

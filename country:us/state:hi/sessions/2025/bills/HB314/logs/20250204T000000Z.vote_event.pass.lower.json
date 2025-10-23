@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "The committee on WAL recommend that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-04",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB314\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB314",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Hashem",
+      "voter_id": "~{\"name\": \"Hashem\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lamosao",
+      "voter_id": "~{\"name\": \"Lamosao\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Belatti",
+      "voter_id": "~{\"name\": \"Belatti\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ichiyama",
+      "voter_id": "~{\"name\": \"Ichiyama\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Iwamoto",
+      "voter_id": "~{\"name\": \"Iwamoto\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morikawa",
+      "voter_id": "~{\"name\": \"Morikawa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Poepoe",
+      "voter_id": "~{\"name\": \"Poepoe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Woodson",
+      "voter_id": "~{\"name\": \"Woodson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shimizu",
+      "voter_id": "~{\"name\": \"Shimizu\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Souza",
+      "voter_id": "~{\"name\": \"Souza\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=314&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "2#HB314#2025-02-04#The committee on WAL recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 10 Ayes: Representative(s) Hashem, Lamosao, Belatti, Ichiyama, Iwamoto, Morikawa, Poepoe, Woodson, Shimizu, Souza; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none."
+}

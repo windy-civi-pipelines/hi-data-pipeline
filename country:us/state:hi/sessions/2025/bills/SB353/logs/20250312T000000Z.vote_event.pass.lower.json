@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "The committee on PBS recommend that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB353\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB353",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Belatti",
+      "voter_id": "~{\"name\": \"Belatti\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Iwamoto",
+      "voter_id": "~{\"name\": \"Iwamoto\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hashem",
+      "voter_id": "~{\"name\": \"Hashem\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ichiyama",
+      "voter_id": "~{\"name\": \"Ichiyama\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lamosao",
+      "voter_id": "~{\"name\": \"Lamosao\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morikawa",
+      "voter_id": "~{\"name\": \"Morikawa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Poepoe",
+      "voter_id": "~{\"name\": \"Poepoe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shimizu",
+      "voter_id": "~{\"name\": \"Shimizu\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Souza",
+      "voter_id": "~{\"name\": \"Souza\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Woodson",
+      "voter_id": "~{\"name\": \"Woodson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=353&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "17#SB353#2025-03-12#The committee on PBS recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 9 Ayes: Representative(s) Belatti, Iwamoto, Hashem, Ichiyama, Lamosao, Morikawa, Poepoe, Shimizu, Souza; Ayes with reservations: none;  Noes: none; and 1 Excused: Representative(s) Woodson."
+}

@@ -1,0 +1,74 @@
+{
+  "identifier": "",
+  "motion_text": "The Conference committee recommends that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB1318\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB1318",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Inouye",
+      "voter_id": "~{\"name\": \"Inouye\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hashimoto",
+      "voter_id": "~{\"name\": \"Hashimoto\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rhoads",
+      "voter_id": "~{\"name\": \"Rhoads\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chang",
+      "voter_id": "~{\"name\": \"Chang\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elefante",
+      "voter_id": "~{\"name\": \"Elefante\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DeCorte",
+      "voter_id": "~{\"name\": \"DeCorte\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1318&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "12#SB1318#2025-04-21#The Conference committee recommends that the measure be PASSED, WITH AMENDMENTS. The votes of the Senate Conference Managers were as follows: 6 Aye(s): Senator(s) Inouye, Hashimoto, Rhoads, Chang, Elefante, DeCorte; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none."
+}

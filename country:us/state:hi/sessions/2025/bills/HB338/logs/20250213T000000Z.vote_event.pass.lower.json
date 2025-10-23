@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "The committee on CPC recommend that the measure be PASSED, UNAMENDED.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-13",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB338\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB338",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Matayoshi",
+      "voter_id": "~{\"name\": \"Matayoshi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chun",
+      "voter_id": "~{\"name\": \"Chun\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ilagan",
+      "voter_id": "~{\"name\": \"Ilagan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ichiyama",
+      "voter_id": "~{\"name\": \"Ichiyama\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Iwamoto",
+      "voter_id": "~{\"name\": \"Iwamoto\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kong",
+      "voter_id": "~{\"name\": \"Kong\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lowen",
+      "voter_id": "~{\"name\": \"Lowen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marten",
+      "voter_id": "~{\"name\": \"Marten\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tam",
+      "voter_id": "~{\"name\": \"Tam\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Pierick",
+      "voter_id": "~{\"name\": \"Pierick\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=338&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "2#HB338#2025-02-13#The committee on CPC recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 9 Ayes: Representative(s) Matayoshi, Chun, Ilagan, Ichiyama, Iwamoto, Kong, Lowen, Marten, Tam; Ayes with reservations: none;  Noes: none; and 1 Excused: Representative(s) Pierick."
+}

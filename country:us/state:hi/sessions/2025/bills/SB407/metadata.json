@@ -1,0 +1,137 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB407",
+  "title": "RELATING TO EMPLOYEE BENEFITS.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Breast Milk Expression",
+    "Childbirth",
+    "DOH",
+    "Eligibility Criteria Exemption",
+    "Family Leave",
+    "Kangaroo Care",
+    "NICU",
+    "Pregnancy",
+    "Preterm Birth",
+    "TDI"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Expands the State's temporary disability insurance coverage to, and exempts from TDI benefit eligibility requirements that are employment-related, employees who are unable to perform their employment duties due to the employee's childbirth or provision of kangaroo care to, or expression of breast milk for, the employee's child who is required to stay in a neonatal intensive care unit.  Extends under certain conditions the temporary disability benefit payment period and family leave period for employees who are unable to perform their employment duties due to a preterm birth of a child who is required to stay in a neonatal intensive care unit (NICU) or birth of a child who is required to stay in a NICU for more than eight weeks.  Defines \"kangaroo care\" and \"preterm birth\".  Requires the Department of Health to amend its rules to include neonatal care as related condition where the phrase \"pregnancy, childbirth, or other related condition\" is used."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to LBT/HHS, WAM.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Labor and Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Health and Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:02Z"
+      }
+    },
+    {
+      "description": "Introduced and passed First Reading.",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:02Z"
+      }
+    },
+    {
+      "description": "Pending Introduction.",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T18:13:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "RHOADS",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"RHOADS\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hashimoto",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hashimoto\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB407",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB407_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB407_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=407&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "LBT/HHS, WAM"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T18:13:02Z"
+  }
+}

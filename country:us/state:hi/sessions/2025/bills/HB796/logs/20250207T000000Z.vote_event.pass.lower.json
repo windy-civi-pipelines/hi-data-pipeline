@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "The committee on ECD recommend that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB796\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB796",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Ilagan",
+      "voter_id": "~{\"name\": \"Ilagan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Holt",
+      "voter_id": "~{\"name\": \"Holt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Templo",
+      "voter_id": "~{\"name\": \"Templo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Todd",
+      "voter_id": "~{\"name\": \"Todd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hussey",
+      "voter_id": "~{\"name\": \"Hussey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tam",
+      "voter_id": "~{\"name\": \"Tam\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matsumoto",
+      "voter_id": "~{\"name\": \"Matsumoto\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=796&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "40#HB796#2025-02-07#The committee on ECD recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 7 Ayes: Representative(s) Ilagan, Holt, Templo, Todd; Ayes with reservations: Representative(s) Hussey, Tam, Matsumoto;  Noes: none; and  Excused: none."
+}

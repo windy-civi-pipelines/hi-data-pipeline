@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "The Conference Committee recommends that the measure be Passed, with Amendments.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB736\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB736",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Garrett",
+      "voter_id": "~{\"name\": \"Garrett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lowen",
+      "voter_id": "~{\"name\": \"Lowen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Takenouchi",
+      "voter_id": "~{\"name\": \"Takenouchi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Amato",
+      "voter_id": "~{\"name\": \"Amato\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Alcos",
+      "voter_id": "~{\"name\": \"Alcos\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=736&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "12#HB736#2025-04-25#The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 5 Ayes: Representative(s) Garrett, Lowen, Takenouchi, Amato, Alcos; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none."
+}

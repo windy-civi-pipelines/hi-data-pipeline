@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Referred to GVO/EIG, JDC.",
+    "date": "2025-01-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Government Operations",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Energy and Intergovernmental Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB869"
+}

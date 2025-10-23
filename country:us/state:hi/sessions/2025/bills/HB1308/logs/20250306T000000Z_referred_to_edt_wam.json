@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Referred to EDT, WAM.",
+    "date": "2025-03-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Economic Development and Tourism",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB1308"
+}

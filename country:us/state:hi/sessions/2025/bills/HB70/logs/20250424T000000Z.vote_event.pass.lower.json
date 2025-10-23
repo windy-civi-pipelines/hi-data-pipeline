@@ -1,0 +1,62 @@
+{
+  "identifier": "",
+  "motion_text": "The Conference Committee recommends that the measure be Passed, with Amendments.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-24",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB70\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB70",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Matayoshi",
+      "voter_id": "~{\"name\": \"Matayoshi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Todd",
+      "voter_id": "~{\"name\": \"Todd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Iwamoto",
+      "voter_id": "~{\"name\": \"Iwamoto\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pierick",
+      "voter_id": "~{\"name\": \"Pierick\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=70&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "12#HB70#2025-04-24#The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 4 Ayes: Representative(s) Matayoshi, Todd, Iwamoto, Pierick; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none."
+}

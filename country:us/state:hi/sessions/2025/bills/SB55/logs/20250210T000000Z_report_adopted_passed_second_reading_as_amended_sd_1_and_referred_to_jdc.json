@@ -1,0 +1,19 @@
+{
+  "action": {
+    "description": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to JDC.",
+    "date": "2025-02-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB55"
+}

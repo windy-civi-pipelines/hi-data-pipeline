@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Referred to HSH, ECD, FIN, referral sheet 1",
+    "date": "2025-01-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Human Services & Homelessness",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Economic Development & Technology",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Finance",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB179"
+}

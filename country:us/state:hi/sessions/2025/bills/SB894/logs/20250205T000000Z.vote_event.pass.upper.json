@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "Reconsider: The committee(s) on EDU recommend(s) that the measure be PASSED, WITH AMENDMENTS and be recommitted.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB894\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB894",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Kidani",
+      "voter_id": "~{\"name\": \"Kidani\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim",
+      "voter_id": "~{\"name\": \"Kim\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hashimoto",
+      "voter_id": "~{\"name\": \"Hashimoto\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kanuha",
+      "voter_id": "~{\"name\": \"Kanuha\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "DeCorte",
+      "voter_id": "~{\"name\": \"DeCorte\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=894&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "36#SB894#2025-02-05#The committee(s) on EDU recommend(s) that the measure be PASSED, WITH AMENDMENTS and be recommitted.  The votes in EDU were as follows: 4 Aye(s): Senator(s) Kidani, Kim, Hashimoto, Kanuha; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) DeCorte."
+}

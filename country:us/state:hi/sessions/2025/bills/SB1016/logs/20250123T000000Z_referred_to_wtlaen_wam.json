@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Referred to WTL/AEN, WAM.",
+    "date": "2025-01-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Water and Land",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Agriculture and Environment",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB1016"
+}

@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "The Conference Committee recommends that the measure be Passed, with Amendments.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-22",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB874\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB874",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Marten",
+      "voter_id": "~{\"name\": \"Marten\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sayama",
+      "voter_id": "~{\"name\": \"Sayama\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lee",
+      "voter_id": "~{\"name\": \"Lee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "M",
+      "voter_id": "~{\"name\": \"M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Garcia",
+      "voter_id": "~{\"name\": \"Garcia\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Matayoshi",
+      "voter_id": "~{\"name\": \"Matayoshi\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Chun",
+      "voter_id": "~{\"name\": \"Chun\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=874&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "11#HB874#2025-04-22#The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 4 Ayes: Representative(s) Marten, Sayama, Lee, M., Garcia; Ayes with reservations: none; 0 Noes: none; and 2 Excused: Representative(s) Matayoshi, Chun."
+}

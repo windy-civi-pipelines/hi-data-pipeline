@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Re-referred to CAA, ECD, FIN, referral sheet 11",
+    "date": "2025-02-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Culture & Arts",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Economic Development & Technology",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Finance",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB450"
+}

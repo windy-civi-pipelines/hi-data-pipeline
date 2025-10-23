@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "The Conference Committee recommends that the measure be Passed, with Amendments.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-23",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB1281\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB1281",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Takayama",
+      "voter_id": "~{\"name\": \"Takayama\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matayoshi",
+      "voter_id": "~{\"name\": \"Matayoshi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Keohokapu-Lee Loy",
+      "voter_id": "~{\"name\": \"Keohokapu-Lee Loy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Olds",
+      "voter_id": "~{\"name\": \"Olds\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Alcos",
+      "voter_id": "~{\"name\": \"Alcos\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1281&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "11#SB1281#2025-04-23#The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 5 Ayes: Representative(s) Takayama, Matayoshi, Keohokapu-Lee Loy, Olds, Alcos; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none."
+}

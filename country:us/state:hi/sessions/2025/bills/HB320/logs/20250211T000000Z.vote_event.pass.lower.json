@@ -1,0 +1,92 @@
+{
+  "identifier": "",
+  "motion_text": "The committee on HSH recommend that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB320\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB320",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Marten",
+      "voter_id": "~{\"name\": \"Marten\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Olds",
+      "voter_id": "~{\"name\": \"Olds\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Amato",
+      "voter_id": "~{\"name\": \"Amato\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chun",
+      "voter_id": "~{\"name\": \"Chun\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Keohokapu-Lee Loy",
+      "voter_id": "~{\"name\": \"Keohokapu-Lee Loy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Takayama",
+      "voter_id": "~{\"name\": \"Takayama\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Takenouchi",
+      "voter_id": "~{\"name\": \"Takenouchi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Alcos",
+      "voter_id": "~{\"name\": \"Alcos\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Garcia",
+      "voter_id": "~{\"name\": \"Garcia\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=320&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "42#HB320#2025-02-11#The committee on HSH recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 9 Ayes: Representative(s) Marten, Olds, Amato, Chun, Keohokapu-Lee Loy, Takayama, Takenouchi, Alcos, Garcia; Ayes with reservations: none;  Noes: none; and  Excused: none."
+}

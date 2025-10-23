@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Referred to TCA/EIG, JDC.",
+    "date": "2025-01-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Transportation and Culture and the Arts",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Energy and Intergovernmental Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB1446"
+}

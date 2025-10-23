@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The committee(s) on HED recommend(s) that the measure be deferred.",
+    "date": "2025-04-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR137"
+}

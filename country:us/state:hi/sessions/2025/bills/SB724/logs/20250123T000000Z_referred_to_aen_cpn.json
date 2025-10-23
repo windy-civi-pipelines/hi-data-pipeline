@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Referred to AEN, CPN.",
+    "date": "2025-01-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Agriculture and Environment",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Commerce and Consumer Protection",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB724"
+}

@@ -1,0 +1,92 @@
+{
+  "identifier": "",
+  "motion_text": "Reconsider: The committee on HLT recommend that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SCR69\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SCR69",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Takayama",
+      "voter_id": "~{\"name\": \"Takayama\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Keohokapu-Lee Loy",
+      "voter_id": "~{\"name\": \"Keohokapu-Lee Loy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Amato",
+      "voter_id": "~{\"name\": \"Amato\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chun",
+      "voter_id": "~{\"name\": \"Chun\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marten",
+      "voter_id": "~{\"name\": \"Marten\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Olds",
+      "voter_id": "~{\"name\": \"Olds\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Alcos",
+      "voter_id": "~{\"name\": \"Alcos\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Takenouchi",
+      "voter_id": "~{\"name\": \"Takenouchi\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Garcia",
+      "voter_id": "~{\"name\": \"Garcia\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=69&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "9#SCR69#2025-04-11#The committee on HLT recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 7 Ayes: Representative(s) Takayama, Keohokapu-Lee Loy, Amato, Chun, Marten, Olds, Alcos; Ayes with reservations: none;  Noes: none; and 2 Excused: Representative(s) Takenouchi, Garcia."
+}

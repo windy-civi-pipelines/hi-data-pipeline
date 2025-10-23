@@ -1,0 +1,140 @@
+{
+  "identifier": "",
+  "motion_text": "The committee on FIN recommend that the measure be PASSED, UNAMENDED.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB648\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB648",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Yamashita",
+      "voter_id": "~{\"name\": \"Yamashita\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Takenouchi",
+      "voter_id": "~{\"name\": \"Takenouchi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grandinetti",
+      "voter_id": "~{\"name\": \"Grandinetti\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Holt",
+      "voter_id": "~{\"name\": \"Holt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hussey",
+      "voter_id": "~{\"name\": \"Hussey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Keohokapu-Lee Loy",
+      "voter_id": "~{\"name\": \"Keohokapu-Lee Loy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kitagawa",
+      "voter_id": "~{\"name\": \"Kitagawa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lamosao",
+      "voter_id": "~{\"name\": \"Lamosao\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lee",
+      "voter_id": "~{\"name\": \"Lee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "M",
+      "voter_id": "~{\"name\": \"M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Miyake",
+      "voter_id": "~{\"name\": \"Miyake\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morikawa",
+      "voter_id": "~{\"name\": \"Morikawa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Templo",
+      "voter_id": "~{\"name\": \"Templo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Alcos",
+      "voter_id": "~{\"name\": \"Alcos\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Kusch",
+      "voter_id": "~{\"name\": \"Kusch\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Reyes Oda",
+      "voter_id": "~{\"name\": \"Reyes Oda\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Ward",
+      "voter_id": "~{\"name\": \"Ward\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 13
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=648&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "38#HB648#2025-02-25#The committee on FIN recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 13 Ayes: Representative(s) Yamashita, Takenouchi, Grandinetti, Holt, Hussey, Keohokapu-Lee Loy, Kitagawa, Lamosao, Lee, M., Miyake, Morikawa, Templo, Alcos; Ayes with reservations: none;  Noes: none; and"
+}

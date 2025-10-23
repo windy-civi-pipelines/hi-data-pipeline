@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "The Conference Committee recommends that the measure be Passed, with Amendments.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB1391\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB1391",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Ilagan",
+      "voter_id": "~{\"name\": \"Ilagan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Holt",
+      "voter_id": "~{\"name\": \"Holt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hussey",
+      "voter_id": "~{\"name\": \"Hussey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matsumoto",
+      "voter_id": "~{\"name\": \"Matsumoto\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Quinlan",
+      "voter_id": "~{\"name\": \"Quinlan\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1391&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "6#HB1391#2025-04-25#The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 4 Ayes: Representative(s) Ilagan, Holt, Hussey, Matsumoto; Ayes with reservations: none; 0 Noes: none; and 1 Excused: Representative(s) Quinlan."
+}

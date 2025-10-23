@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "The committee on TOU recommend that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-04",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB972\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "HB972",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Tam",
+      "voter_id": "~{\"name\": \"Tam\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Templo",
+      "voter_id": "~{\"name\": \"Templo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hussey",
+      "voter_id": "~{\"name\": \"Hussey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ilagan",
+      "voter_id": "~{\"name\": \"Ilagan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Todd",
+      "voter_id": "~{\"name\": \"Todd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matsumoto",
+      "voter_id": "~{\"name\": \"Matsumoto\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Holt",
+      "voter_id": "~{\"name\": \"Holt\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=972&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "2#HB972#2025-02-04#The committee on TOU recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 6 Ayes: Representative(s) Tam, Templo, Hussey, Ilagan, Todd, Matsumoto; Ayes with reservations: none;  Noes: none; and 1 Excused: Representative(s) Holt."
+}
